@@ -39,12 +39,14 @@ cd ymind
 pip install -r backend/requirements.txt
 
 # Set up environment variables
-cp backend/.env.local.example backend/.env.local
-# Edit backend/.env.local and add your API key:
+cp backend/.env.local.example .env.local
+# Edit .env.local and add your API key:
 # GEMINI_API_KEY=your_key_here
 ```
 
 ### Run
+
+**Step 1: Start the backend server**
 
 ```bash
 # Option 1: Direct Python
@@ -52,10 +54,24 @@ python backend/main.py
 
 # Option 2: Using uvicorn (recommended for development)
 uvicorn backend.main:app --reload --host 0.0.0.0 --port 8000
-
-# Then open index.html in your browser
-# Server runs at: http://localhost:8000
 ```
+
+You should see:
+```
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Application startup complete.
+```
+
+**Step 2: Open the frontend**
+
+```bash
+# Simply open index.html in your browser
+open index.html  # macOS
+# or drag index.html to your browser
+# or double-click index.html
+```
+
+The frontend will automatically connect to `http://localhost:8000` API.
 
 That's it! Start chatting and watch your mind map grow.
 
