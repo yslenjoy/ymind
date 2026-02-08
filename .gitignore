@@ -1,0 +1,62 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependencies
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# User files
+tmp_reference/*
+*/raw-conversation/*
+tmp.*
+
+# Claude Code Local Settings
+.claude/*.local.json
+.claude/*.local.md
+.claude/auth.json
+# antigravity
+.agent/*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+
+# Debug cache (LLM response cache)
+backend/.cache/
+
+# Output directories
+outputs/tree-visual-only-json/*.json
+outputs/sessions/*
+!outputs/sessions/demo/
+outputs/sessions/demo/*.json
+!outputs/sessions/demo/index.json
+
+# Personal development configs
+.claude/
+.vscode/

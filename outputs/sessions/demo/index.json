@@ -1,0 +1,851 @@
+[
+  {
+    "session_id": "demo_1769955718511",
+    "title": "Titanic and the Utilitarian Filter",
+    "created_at": "2025-12-05T21:55:08.564415",
+    "updated_at": "2025-12-05T21:55:08.564415",
+    "turn_count": 3,
+    "node_count": 20,
+    "filename": "session_demo_1769955718511.json",
+    "tags": [],
+    "summary": "Explored detachment from romantic narratives due to a utilitarian mindset, identifying work-induced cognitive inertia as the barrier to emotional engagement.",
+    "themes": [
+      "Utilitarian Approach to Leisure",
+      "Cognitive Inertia From Performance",
+      "Intellectualization of Emotional Experiences"
+    ],
+    "emotions": [
+      "Detached",
+      "Rational",
+      "Anxious",
+      "Conflicted",
+      "Analytical"
+    ],
+    "key_labels": [
+      "preference for time-tested depth",
+      "observation of the unfamiliar",
+      "Buffer Zone Ritual",
+      "Accept the Filter",
+      "instant attraction was fleeting",
+      "lost that romantic lens",
+      "labor of self-improvement"
+    ],
+    "key_nodes": [
+      {
+        "id": "ae571124-89a3-4d32-96b2-964caefd2d61",
+        "type": "action",
+        "label": "preference for time-tested depth",
+        "summary": "The AI prompts the user to reflect on whether this requirement for long-term proof and depth manifests in their real-world trust and relationships."
+      },
+      {
+        "id": "e6e26ed6-cb59-48f6-bc10-efc48f6900d0",
+        "type": "action",
+        "label": "observation of the unfamiliar",
+        "summary": "Changing the purpose of consumption from 'extraction' to observing how humans want to believe they would act in a story."
+      },
+      {
+        "id": "67a15b9c-a699-4002-b048-46a87d6549d3",
+        "type": "action",
+        "label": "Buffer Zone Ritual",
+        "summary": "Implementing a de-pressurization period between work and leisure, such as physical movement or staring at a wall, to signal the end of the efficiency phase."
+      },
+      {
+        "id": "5021ea23-d497-4e00-af1d-2d6803d1c90f",
+        "type": "action",
+        "label": "Accept the Filter",
+        "summary": "Stopping the self-judgment for being rational; by allowing the analytical voice to exist without resistance, the internal tension may naturally dissipate."
+      },
+      {
+        "id": "cf967534-eac6-41d9-b490-b65236d3232a",
+        "type": "friction",
+        "label": "instant attraction was fleeting",
+        "summary": "The user views the 'lightning bolt' attraction between Jack and Rose as a temporary spark fueled by curiosity rather than a substantial bond."
+      },
+      {
+        "id": "100c77a8-5b72-41e7-a299-6fa5762804fe",
+        "type": "friction",
+        "label": "lost that romantic lens",
+        "summary": "The inability to simply sit in the atmosphere and be moved by a narrative without checking its credentials or utility."
+      },
+      {
+        "id": "5bbeeb90-4569-4adc-a1de-1abb18079555",
+        "type": "friction",
+        "label": "labor of self-improvement",
+        "summary": "Turning leisure time into a task where every moment must serve a purpose or growth, leading to a modern form of anxiety."
+      }
+    ]
+  },
+  {
+    "session_id": "demo_1770041995033",
+    "title": "Nighttime Negativity and Morning Energy",
+    "created_at": "2025-12-02T22:23:37.123019",
+    "updated_at": "2025-12-03T20:31:38.663410",
+    "turn_count": 1,
+    "node_count": 7,
+    "filename": "session_demo_1770041995033.json",
+    "tags": [],
+    "summary": "Explored why negative thoughts intensify at night after phone use, identifying the shift from morning executive control to nighttime vulnerability.",
+    "themes": [
+      "Cognitive Resource Depletion",
+      "Sensory Vacuum Response",
+      "Loss of Executive Control"
+    ],
+    "emotions": [
+      "Anxious",
+      "Vulnerable",
+      "Overwhelmed",
+      "Curious",
+      "Helpless"
+    ],
+    "key_labels": [
+      "Physical Sensation",
+      "Uncontrollable Negativity",
+      "Cognitive Shield",
+      "Sensory Vacuum"
+    ],
+    "key_nodes": [
+      {
+        "id": "ce1b94d1-ff2e-412b-9406-c5cf10c385fd",
+        "type": "action",
+        "label": "Physical Sensation",
+        "summary": "The AI suggests identifying the specific physical feeling (e.g., chest drop or buzzing) to determine if the issue is mental processing or bodily tension."
+      },
+      {
+        "id": "fe91713e-c23e-4cf3-bfbe-401448a806f2",
+        "type": "friction",
+        "label": "Uncontrollable Negativity",
+        "summary": "At night, specifically before falling asleep, the user's thoughts become uncontrollable and lean toward negative topics that cause distress."
+      },
+      {
+        "id": "5029e6ea-6f39-4133-b34e-e6a69600450e",
+        "type": "spark",
+        "label": "Cognitive Shield",
+        "summary": "The AI reframes morning energy as a peak in Executive Function that acts as a shield, allowing the brain to filter out or ignore intrusive thoughts."
+      },
+      {
+        "id": "5cb9865b-34d3-4877-8845-0f50179ab906",
+        "type": "spark",
+        "label": "Sensory Vacuum",
+        "summary": "Putting the phone down creates a sudden lack of external data, causing the brain to auto-generate high-intensity signals like anxiety to fill the void."
+      }
+    ]
+  },
+  {
+    "session_id": "demo_1770044135380",
+    "title": "Post-Work Focus and Night Walks",
+    "created_at": "2025-12-18T23:03:28.919652",
+    "updated_at": "2025-12-18T23:03:28.919652",
+    "turn_count": 3,
+    "node_count": 19,
+    "filename": "session_demo_1770044135380.json",
+    "tags": [],
+    "summary": "Explored the friction between high-efficiency work and relaxation, reframing recovery 'bugs' as essential cognitive integration and sensory decompression.",
+    "themes": [
+      "Efficiency-Driven Self-Judgment",
+      "Cognitive Transition Friction",
+      "Subconscious Task Integration"
+    ],
+    "emotions": [
+      "Curious",
+      "Analytical",
+      "Conflicted",
+      "Observant",
+      "Reflective"
+    ],
+    "key_labels": [
+      "Observe Next Morning Focus",
+      "Give Yourself Permission",
+      "And When Moment",
+      "Difficult To Focus On Video Content",
+      "Efficiency-driven Mindset",
+      "Efficiency Judgment",
+      "Waiting For Background Tasks"
+    ],
+    "key_nodes": [
+      {
+        "id": "be6ceed9-20aa-42c0-9e96-d63d54f88219",
+        "type": "action",
+        "label": "Observe Next Morning Focus",
+        "summary": "The user is encouraged to notice how their focus feels the following morning after choosing a sensory walk over a video break."
+      },
+      {
+        "id": "29e7577e-2d9d-430d-b77d-a70f7ff441a5",
+        "type": "action",
+        "label": "Give Yourself Permission",
+        "summary": "Allowing the transition to take as long as it needs, thereby removing the pressure of the schedule and changing the relationship with the evening routine."
+      },
+      {
+        "id": "466a0c5d-2d9c-423c-9979-b659a9d02aa1",
+        "type": "action",
+        "label": "And When Moment",
+        "summary": "A prompt to identify the specific transition point or physical sensation that occurs when work thoughts shift or stop."
+      },
+      {
+        "id": "5149bf22-07d3-4530-a1e0-120038321036",
+        "type": "friction",
+        "label": "Difficult To Focus On Video Content",
+        "summary": "After periods of high-efficiency work and flow, the user finds it nearly impossible to concentrate on videos during breaks, feeling it as a side effect of automatic information filtering."
+      },
+      {
+        "id": "2279d67e-e63b-46da-87d7-e0def0c992ec",
+        "type": "friction",
+        "label": "Efficiency-driven Mindset",
+        "summary": "A mental state that views time as a currency to be spent wisely, leading to the judgment of recovery and transition periods as 'costs' or 'delays.'"
+      },
+      {
+        "id": "60e700f4-4c1a-4fe5-afb6-40e0a3184719",
+        "type": "friction",
+        "label": "Efficiency Judgment",
+        "summary": "The trap of trying to 'rush the presence' or optimize the recovery process, which creates a new form of stress and undermines the antidote to optimization."
+      },
+      {
+        "id": "6571dabf-020e-40c2-bdcf-944eb323014f",
+        "type": "friction",
+        "label": "Waiting For Background Tasks",
+        "summary": "The feeling of needing 'more time' to be present is actually the brain 'offloading the day’s cargo' and finishing its background processing."
+      }
+    ]
+  },
+  {
+    "session_id": "demo_1770122116144",
+    "title": "Health and the Simple Life",
+    "created_at": "2025-12-24T20:38:27.837356",
+    "updated_at": "2025-12-24T20:38:27.837356",
+    "turn_count": 1,
+    "node_count": 6,
+    "filename": "session_demo_1770122116144.json",
+    "tags": [],
+    "summary": "Explored how minor health issues redefine happiness as a simple, stable life, shifting focus from pursuit to subtraction.",
+    "themes": [
+      "Happiness Through Subtraction",
+      "Valuing Stability Over Novelty",
+      "Body-Driven Priority Reset"
+    ],
+    "emotions": [
+      "Reflective",
+      "Vulnerable",
+      "Relieved",
+      "Appreciative",
+      "Grounded"
+    ],
+    "key_labels": [
+      "Health-As-Priority Lens",
+      "Recovery Thoughts",
+      "Certain Happiness",
+      "Happiness As Subtraction"
+    ],
+    "key_nodes": [
+      {
+        "id": "a4b044c2-7c60-4860-8c01-4a2ab53f2647",
+        "type": "action",
+        "label": "Health-As-Priority Lens",
+        "summary": "Reflecting on current stressors to identify which 'ups and downs' are actually unnecessary or small when viewed through the priority of maintaining health."
+      },
+      {
+        "id": "e4db7dff-98b4-4260-911f-193cfdd2ae5f",
+        "type": "friction",
+        "label": "Recovery Thoughts",
+        "summary": "Moments of clarity regarding a simple life are often treated as temporary perspectives held only while vulnerable, which can feel 'boring' once energy returns."
+      },
+      {
+        "id": "b2662abe-52ee-487a-9355-501133978162",
+        "type": "spark",
+        "label": "Certain Happiness",
+        "summary": "A plain and uneventful life is recognized as a form of reliable happiness that is grounded in stability and the absence of major ups and downs."
+      },
+      {
+        "id": "da6887f9-debd-462b-b5c0-de90867d66e1",
+        "type": "spark",
+        "label": "Happiness As Subtraction",
+        "summary": "The AI reframes happiness as the absence of pain, worry, and instability, shifting the focus from adding achievements to subtracting negatives."
+      }
+    ]
+  },
+  {
+    "session_id": "demo_1770122566385",
+    "title": "Finding Connection After Intellectual Work",
+    "created_at": "2026-02-03T20:45:53.211981",
+    "updated_at": "2026-02-03T20:46:34.073928",
+    "turn_count": 2,
+    "node_count": 12,
+    "filename": "session_demo_1770122566385.json",
+    "tags": [],
+    "summary": "Explored how shifting from intense intellectual focus to mind wandering allows for a deeper appreciation of ordinary, authentic human connections.",
+    "themes": [
+      "Cognitive Tunnel Vision",
+      "Authentic Human Connection",
+      "Emotional Recovery Through Rest"
+    ],
+    "emotions": [
+      "Reflective",
+      "Insightful",
+      "Calm",
+      "Relieved",
+      "Grounded"
+    ],
+    "key_labels": [
+      "Specific Ordinary Moment",
+      "Value Your Downtime",
+      "Digital Noise",
+      "Choice or Collapse",
+      "Validation vs. Connection",
+      "Sensory Truth",
+      "Mind Wandering"
+    ],
+    "key_nodes": [
+      {
+        "id": "c2d979de-8340-47a3-9c3a-7b3db617d0f4",
+        "type": "action",
+        "label": "Specific Ordinary Moment",
+        "summary": "Identifying one specific real-world interaction from the past week that felt more significant than any digital notification."
+      },
+      {
+        "id": "15b95c65-5e6c-4794-8908-9c087694d54f",
+        "type": "action",
+        "label": "Value Your Downtime",
+        "summary": "Re-evaluating periods of rest not as wasted time or fatigue, but as a vital bridge to experiencing touching, ordinary moments."
+      },
+      {
+        "id": "991c7000-e6cb-46e8-9807-675f5fca13bd",
+        "type": "friction",
+        "label": "Digital Noise",
+        "summary": "The performative and high-volume nature of social media creates a low-value environment that can be exhausting for the soul."
+      },
+      {
+        "id": "638745cc-82ff-4eee-ba3d-f7c65de135be",
+        "type": "friction",
+        "label": "Choice or Collapse",
+        "summary": "The uncertainty regarding whether the transition from focused work to a softer state is a conscious choice or a result of being unable to sustain mental tension."
+      },
+      {
+        "id": "55e5338f-0056-417e-af53-0f80d9d45379",
+        "type": "spark",
+        "label": "Validation vs. Connection",
+        "summary": "There is a fundamental distinction between digital validation (abstract data points) and real connection (unscripted and visceral presence)."
+      },
+      {
+        "id": "394772b9-e54e-47d2-bfb2-eaf4b7aad937",
+        "type": "spark",
+        "label": "Sensory Truth",
+        "summary": "Prioritizing the warmth of a real smile or the simple existence of an animal over the need to post, measure, or perform."
+      },
+      {
+        "id": "ab97feea-95af-4aab-ba41-0cb474f53fa8",
+        "type": "spark",
+        "label": "Mind Wandering",
+        "summary": "The 'peripheral vision of the soul' where the mental aperture widens, allowing one to stop looking for something and start simply seeing."
+      }
+    ]
+  },
+  {
+    "session_id": "demo_1770123048767",
+    "title": "Balancing Weekend Rest and AI Learning",
+    "created_at": "2026-01-11T20:59:27.642291",
+    "updated_at": "2026-01-11T20:59:27.642291",
+    "turn_count": 3,
+    "node_count": 18,
+    "filename": "session_demo_1770123048767.json",
+    "tags": [],
+    "summary": "Explored the guilt of resting versus the pressure to keep up with AI developments, navigating the tension between professional anxiety and genuine curiosity.",
+    "themes": [
+      "Self-Worth Tied to Productivity",
+      "Professional Anxiety in Tech",
+      "Conflict Between Ambition and Capacity"
+    ],
+    "emotions": [
+      "Guilty",
+      "Anxious",
+      "Conflicted",
+      "Curious",
+      "Overwhelmed"
+    ],
+    "key_labels": [
+      "Feeling Behind Those Plans",
+      "Minimum Viable Rest",
+      "Feel Guilty About Resting",
+      "Expectations At Odds With Capacity",
+      "Negotiating Rest",
+      "High-Cognitive Paradox",
+      "Rest As A Threat To Competitiveness"
+    ],
+    "key_nodes": [
+      {
+        "id": "0c7c9ad1-afd1-4d7d-881d-e92aa67db9eb",
+        "type": "action",
+        "label": "Feeling Behind Those Plans",
+        "summary": "An inquiry into whether the user's plans are driven by genuine excitement or a hidden fear that an unplanned weekend is 'wasted'."
+      },
+      {
+        "id": "381cea7b-ea9a-498f-af82-8c561c76f21c",
+        "type": "action",
+        "label": "Minimum Viable Rest",
+        "summary": "Negotiating a pre-set amount of rest as a 'pre-loading' phase before evaluating if there is energy for deep work."
+      },
+      {
+        "id": "f03da51d-1f61-4f1f-8ac2-37b07faa02c0",
+        "type": "friction",
+        "label": "Feel Guilty About Resting",
+        "summary": "The user experiences persistent guilt after relaxing or taking a stroll, feeling that they have failed their original plans."
+      },
+      {
+        "id": "85de587d-c9c8-4191-9e65-125604d910b9",
+        "type": "friction",
+        "label": "Expectations At Odds With Capacity",
+        "summary": "A cycle where the user's ambitious plans for the weekend do not align with their actual physical or mental energy levels."
+      },
+      {
+        "id": "75939c6c-cd4d-4252-b45a-e2beee4c2434",
+        "type": "friction",
+        "label": "Negotiating Rest",
+        "summary": "Because rest wasn't part of the 'official plan,' the user spends their downtime bargaining rather than fully recovering."
+      },
+      {
+        "id": "db1f9194-b2c4-40b3-9db9-2543befb45e6",
+        "type": "friction",
+        "label": "High-Cognitive Paradox",
+        "summary": "Deep learning requires peak mental performance, yet the user is attempting it on weekends when their brain is most exhausted from the work week."
+      },
+      {
+        "id": "43b4ee07-d60f-41ec-93be-bd5ca1fc95c2",
+        "type": "friction",
+        "label": "Rest As A Threat To Competitiveness",
+        "summary": "Resting is perceived as losing ground or becoming obsolete rather than recovery, which triggers a survival-based guilt when the user tries to relax."
+      }
+    ]
+  },
+  {
+    "session_id": "demo_1770128947719",
+    "title": "Meditation and Mental Clarity",
+    "created_at": "2026-02-04T20:22:19.192130",
+    "updated_at": "2026-02-04T20:26:29.599719",
+    "turn_count": 1,
+    "node_count": 7,
+    "filename": "session_demo_1770128947719.json",
+    "tags": [],
+    "summary": "Explored using meditation for mental clarity, reframing the act of returning to focus as a mental strength exercise.",
+    "themes": [
+      "Metacognitive Awareness",
+      "Acceptance of Mental Noise",
+      "Growth Mindset in Mindfulness"
+    ],
+    "emotions": [
+      "Curious",
+      "Relieved",
+      "Reflective",
+      "Mindful",
+      "Hopeful"
+    ],
+    "key_labels": [
+      "Pattern In Persistent Thoughts",
+      "Caught Up In The Thought",
+      "Moment Of Awakening",
+      "Bicep Curl For Your Brain"
+    ],
+    "key_nodes": [
+      {
+        "id": "e808e769-ef97-4e2d-9e91-498842831d72",
+        "type": "action",
+        "label": "Pattern In Persistent Thoughts",
+        "summary": "An invitation to investigate whether recurring thoughts relate to unfinished business or uncertainties about the future."
+      },
+      {
+        "id": "df295f5b-2fbb-495a-a7b5-f1715bb72eb3",
+        "type": "friction",
+        "label": "Caught Up In The Thought",
+        "summary": "The user occasionally loses their detached perspective and starts thinking along with persistent thoughts instead of just observing them."
+      },
+      {
+        "id": "545c0010-2850-4742-a89c-016464116d2c",
+        "type": "spark",
+        "label": "Moment Of Awakening",
+        "summary": "The AI reframes the moment of realizing one has been swept away by a thought as the most important part of the session, rather than a failure."
+      },
+      {
+        "id": "ac6e4c9e-fa85-44a1-af07-16e7536b378a",
+        "type": "spark",
+        "label": "Bicep Curl For Your Brain",
+        "summary": "A metaphor describing the act of getting caught by a thought and returning to observation as the specific exercise that builds mental strength."
+      }
+    ]
+  },
+  {
+    "session_id": "demo_1770212505337",
+    "title": "Manus Acquisition and Engineering Pragmatism",
+    "created_at": "2025-12-30T21:55:08.564415",
+    "updated_at": "2025-12-30T21:55:08.564415",
+    "turn_count": 4,
+    "node_count": 23,
+    "filename": "session_demo_1770212505337.json",
+    "tags": [],
+    "summary": "Explored the strategic logic behind Manus's acquisition, shifting from skepticism to appreciating their pragmatic engineering and maintenance-aware approach.",
+    "themes": [
+      "Pragmatism Over Engineering Romanticism",
+      "Awareness of Technical Debt",
+      "Strategic Value Realignment"
+    ],
+    "emotions": [
+      "Curious",
+      "Impressed",
+      "Analytical",
+      "Reflective",
+      "Pragmatic"
+    ],
+    "key_labels": [
+      "Conduct a \"Maintenance Audit\"",
+      "Define Your \"Model Relationship\"",
+      "Shorten Your \"Time-to-Utility\" Loop",
+      "Controversy Surrounding Them",
+      "Technical Rigor vs Narrative Delivery",
+      "Speed vs Original Invention",
+      "Maintenance Tax"
+    ],
+    "key_nodes": [
+      {
+        "id": "80661015-f80b-4073-84d9-24fd87557d30",
+        "type": "action",
+        "label": "Conduct a \"Maintenance Audit\"",
+        "summary": "Identify and deprioritize features or projects that act as technical debt in disguise, requiring more energy to maintain than the value they provide."
+      },
+      {
+        "id": "f6dcb5ea-a948-4f26-ae1b-463c2001bda4",
+        "type": "action",
+        "label": "Define Your \"Model Relationship\"",
+        "summary": "Explicitly decide if you are an Orchestrator or a Creator; if an Orchestrator, focus entirely on robustness and execution speed rather than the 'wrapper' label."
+      },
+      {
+        "id": "0dc9f345-b28e-4413-8071-b6bc3f8b3f7b",
+        "type": "action",
+        "label": "Shorten Your \"Time-to-Utility\" Loop",
+        "summary": "Evaluate if underlying technology is mature enough for reliability today; if so, move with total aggression to get it into users' hands."
+      },
+      {
+        "id": "b06a2776-2ea3-4810-89c8-fbad2e470651",
+        "type": "friction",
+        "label": "Controversy Surrounding Them",
+        "summary": "The significant noise and skepticism from the industry regarding Manus's methods or substance."
+      },
+      {
+        "id": "97d8ab7c-3371-490d-bcae-9d9096851bf7",
+        "type": "friction",
+        "label": "Technical Rigor vs Narrative Delivery",
+        "summary": "The gap between deep technical substance and how a story is told, which often triggers skepticism from purists."
+      },
+      {
+        "id": "9accaa62-eee5-44f5-aa0d-3472be8b2b51",
+        "type": "friction",
+        "label": "Speed vs Original Invention",
+        "summary": "A fundamental tension between the perceived value of creating something entirely original versus the value of high-velocity execution on existing trends."
+      },
+      {
+        "id": "6a9517d5-e4ad-4185-8b21-bacb655078c1",
+        "type": "friction",
+        "label": "Maintenance Tax",
+        "summary": "The hidden cost and 'friction of longevity' associated with building features that are not sustainable or core to the value proposition."
+      }
+    ]
+  },
+  {
+    "session_id": "demo_1770215266457",
+    "title": "Bridging AI and Human Cognition",
+    "created_at": "2025-12-10T20:59:27.642291",
+    "updated_at": "2025-12-13T22:37:27.442253",
+    "turn_count": 5,
+    "node_count": 30,
+    "filename": "session_demo_1770215266457.json",
+    "tags": [],
+    "summary": "Explored transitioning from corporate stagnation to 10x cognitive engineering, aiming to bridge the gap between AI and non-linear human thought.",
+    "themes": [
+      "Shift From Defensive to Offensive Growth",
+      "Cognitive Friction in Human-AI Interaction",
+      "Seeking High-Leverage Autonomy"
+    ],
+    "emotions": [
+      "Anxious",
+      "Inspired",
+      "Determined",
+      "Frustrated",
+      "Visionary"
+    ],
+    "key_labels": [
+      "Organizing And Managing Brain Memory",
+      "Archive The Past Or Augment The Future",
+      "Identify A Pattern In These Instances",
+      "Implementing Actionable Constraints",
+      "Huge Disconnect Between AI And The Real World",
+      "Trading Time For Financial Gain",
+      "Hard To Keep Up"
+    ],
+    "key_nodes": [
+      {
+        "id": "57490821-cbc3-4b00-91c5-15fece0defbd",
+        "type": "action",
+        "label": "Organizing And Managing Brain Memory",
+        "summary": "A specific 10x side project focused on building an infrastructure to handle information flood and cognitive constraints."
+      },
+      {
+        "id": "71d53a02-3821-486e-b4b7-908fee680350",
+        "type": "action",
+        "label": "Archive The Past Or Augment The Future",
+        "summary": "A strategic choice to determine if the memory system is a library for storage or an engine for synthesis."
+      },
+      {
+        "id": "c59a4ba5-2f99-4531-9369-3bbbbbd59ae7",
+        "type": "action",
+        "label": "Identify A Pattern In These Instances",
+        "summary": "The user intends to track recurring moments of frustration to identify structural patterns in where the human-AI understanding gap occurs."
+      },
+      {
+        "id": "4450bc55-86f1-40c9-a8c0-86c190d226dd",
+        "type": "action",
+        "label": "Implementing Actionable Constraints",
+        "summary": "Applying systemic interventions and environmental design to prevent prolonged difficulties when repetition alone fails to resolve a persistent challenge."
+      },
+      {
+        "id": "1ea6ca93-4cb9-4515-a7d1-8516929c6af3",
+        "type": "friction",
+        "label": "Huge Disconnect Between AI And The Real World",
+        "summary": "The user perceives a significant gap between the rapid emergence of AI tools like Claude Code and the stagnant, legacy reality of their current professional environment."
+      },
+      {
+        "id": "21312cf7-3fe9-4154-aa6b-e1304cb9094a",
+        "type": "friction",
+        "label": "Trading Time For Financial Gain",
+        "summary": "The user feels their professional life is reduced to a simple exchange of hours for money, serving the company's immediate needs rather than their own long-term trajectory."
+      },
+      {
+        "id": "43ff21b8-128e-4b67-aa25-432ce2affb5f",
+        "type": "friction",
+        "label": "Hard To Keep Up",
+        "summary": "The rapid daily development of AI creates a sense of anxiety and pressure for the user to maintain pace with the technological frontier."
+      }
+    ]
+  },
+  {
+    "session_id": "demo_1770292254489",
+    "title": "Grand Goals and Mindful AI",
+    "created_at": "2025-11-08T20:07:08.259299",
+    "updated_at": "2025-11-08T20:07:08.259299",
+    "turn_count": 3,
+    "node_count": 18,
+    "filename": "session_demo_1770292254489.json",
+    "tags": [],
+    "summary": "Explored using AI to foster mental clarity and empathy, shifting from extractive models toward a purposeful, visionary grand goal.",
+    "themes": [
+      "Visionary vs. Incremental Thinking",
+      "Protection of Cognitive Resources",
+      "Alignment of Ambition and Purpose"
+    ],
+    "emotions": [
+      "Inspired",
+      "Reflective",
+      "Determined",
+      "Hopeful",
+      "Purposeful"
+    ],
+    "key_labels": [
+      "Reconsider Specific Functions",
+      "Move In This Direction",
+      "Name The Difficult Task",
+      "Functional Incrementalism",
+      "The Visionary Gap",
+      "Low-Quality Advertising Revenue",
+      "Immense Heaviness"
+    ],
+    "key_nodes": [
+      {
+        "id": "a54debcd-4314-48ca-9f58-2b0a5f752fca",
+        "type": "action",
+        "label": "Reconsider Specific Functions",
+        "summary": "Evaluating whether current projects are building a better version of 'now' or tracing a path back from an 'impossible' future state."
+      },
+      {
+        "id": "03052db8-66e1-4b42-b2de-9540f682a8b0",
+        "type": "action",
+        "label": "Move In This Direction",
+        "summary": "The user decides to align their future projects with the goal of fostering empathy and mental clarity rather than just capturing attention."
+      },
+      {
+        "id": "3da53aa0-cc04-4da7-8e4d-22386939c57d",
+        "type": "action",
+        "label": "Name The Difficult Task",
+        "summary": "Identify whether the central challenge between the current noisy internet and the vision of lightness is technical, business-related, or psychological."
+      },
+      {
+        "id": "0b7e37b2-f200-4c23-87fa-4c08c3dea634",
+        "type": "friction",
+        "label": "Functional Incrementalism",
+        "summary": "The trap of treating AI as a 'super-powered plugin' to make tasks 10% faster, which acts as a reactive stance rather than a transformative one."
+      },
+      {
+        "id": "46c162ee-4dbc-4a3c-8130-a00c089ad797",
+        "type": "friction",
+        "label": "The Visionary Gap",
+        "summary": "A pattern where people narrow their focus to specific functions to avoid being overwhelmed by the uncomfortable possibilities of a powerful new technology."
+      },
+      {
+        "id": "7157f8cf-431a-429e-8366-95be4a2e7130",
+        "type": "friction",
+        "label": "Low-Quality Advertising Revenue",
+        "summary": "Current internet business models capture attention for advertising, which consumes people's energy and creates a sense of mental heaviness."
+      },
+      {
+        "id": "32caa121-0709-4bf3-ab1d-e3d29653fc2b",
+        "type": "friction",
+        "label": "Immense Heaviness",
+        "summary": "The significant effort, discipline, and moral difficulty required by a builder to create an experience of 'lightness' for others."
+      }
+    ]
+  },
+  {
+    "session_id": "demo_1770295474063",
+    "title": "Building a Reflection Side Project",
+    "created_at": "2026-01-04T20:07:08.259299",
+    "updated_at": "2026-01-04T20:07:08.259299",
+    "turn_count": 3,
+    "node_count": 21,
+    "filename": "session_demo_1770295474063.json",
+    "tags": [],
+    "summary": "Exploring how to automate and structure AI-driven reflections into a non-linear system to bridge the gap between insight and action.",
+    "themes": [
+      "Meta-Cognitive Engineering",
+      "Linear vs. Non-Linear Cognition",
+      "Bridging Insight and Action"
+    ],
+    "emotions": [
+      "Inspired",
+      "Curious",
+      "Analytical",
+      "Determined",
+      "Reflective"
+    ],
+    "key_labels": [
+      "Recurring Blind Spots",
+      "Automate The Saving Process",
+      "Reflective Dashboard",
+      "Visualize The Growth",
+      "Repetitive Work",
+      "Abrupt Suggestions",
+      "Manually Save These Things"
+    ],
+    "key_nodes": [
+      {
+        "id": "7954b08a-2504-4f35-8e45-0d6a607b734a",
+        "type": "action",
+        "label": "Recurring Blind Spots",
+        "summary": "The AI suggests looking for patterns or thinking gaps that only become visible when reviewing multiple conversation logs at once."
+      },
+      {
+        "id": "77f665de-f784-4bb9-8f46-899ac2dccb8c",
+        "type": "action",
+        "label": "Automate The Saving Process",
+        "summary": "The user is seeking a way to systematically and automatically capture reflection outputs to avoid a 'leaky bucket' of insights."
+      },
+      {
+        "id": "900ac78c-dfa9-4e35-883a-dabec9c56545",
+        "type": "action",
+        "label": "Reflective Dashboard",
+        "summary": "A proposed scope for the side project where the system surfaces saved actions to act as an accountability partner."
+      },
+      {
+        "id": "dd890b33-c5e6-431b-b54c-e9797bf94c15",
+        "type": "action",
+        "label": "Visualize The Growth",
+        "summary": "Determine if the reflection process is primarily additive (new solutions) or subtractive (clearing fog) to define node structure."
+      },
+      {
+        "id": "d5b41509-3695-4197-86c5-7634530f3fd4",
+        "type": "friction",
+        "label": "Repetitive Work",
+        "summary": "The process of manually reviewing logs is currently a repetitive task that the user feels could be optimized or experimented with."
+      },
+      {
+        "id": "fd4ef5e5-c837-4cb4-9f3a-fe3b3a83f737",
+        "type": "friction",
+        "label": "Abrupt Suggestions",
+        "summary": "Actionable advice can feel jarring or be met with internal resistance if provided before emotional regulation has occurred."
+      },
+      {
+        "id": "9143d1e3-7a60-4116-b26a-aef67cf5e774",
+        "type": "friction",
+        "label": "Manually Save These Things",
+        "summary": "The user feels the current process of manually capturing insights is a burden that needs a solution."
+      }
+    ]
+  },
+  {
+    "session_id": "demo_1770295872905",
+    "title": "Managing Claude Code Token Costs",
+    "created_at": "2026-02-05T21:04:12.486748",
+    "updated_at": "2026-02-05T21:04:12.486748",
+    "turn_count": 4,
+    "node_count": 26,
+    "filename": "session_demo_1770295872905.json",
+    "tags": [],
+    "summary": "Explored ways to balance high token costs with creative momentum, arriving at a strategic design document approach.",
+    "themes": [
+      "Efficiency vs. Creative Flow",
+      "Strategic Context Management",
+      "Cognitive Load Reduction"
+    ],
+    "emotions": [
+      "Frustrated",
+      "Pragmatic",
+      "Creative",
+      "Insightful",
+      "Determined"
+    ],
+    "key_labels": [
+      "Tighten The Scope With .claudignore",
+      "Direct Command Shift",
+      "Define The Agent Threshold",
+      "Context Compressor Script",
+      "Narrow-Focus Claude Code Session",
+      "Lighter Local Bridge",
+      "Living Appendix"
+    ],
+    "key_nodes": [
+      {
+        "id": "c731bdba-da19-422f-a24e-f15d8eb48e65",
+        "type": "action",
+        "label": "Tighten The Scope With .claudignore",
+        "summary": "Reduce the searchable surface area by using a .claudignore file to exclude unnecessary directories and files."
+      },
+      {
+        "id": "cd6c1a04-5959-43cf-b1c0-b0cb396d609c",
+        "type": "action",
+        "label": "Direct Command Shift",
+        "summary": "Switch from open-ended questions to specific commands targeting specific code lines to prevent full-codebase scans."
+      },
+      {
+        "id": "d1022a33-2ab0-4e56-897c-0bd1f883a00f",
+        "type": "action",
+        "label": "Define The Agent Threshold",
+        "summary": "A decision-making step to determine if a task requires cross-file knowledge; if not, use a lighter tool or web UI to avoid the 'Token Tax' of local agents."
+      },
+      {
+        "id": "0e8ee5db-7ad9-4cac-8a3c-d38b9babace5",
+        "type": "action",
+        "label": "Context Compressor Script",
+        "summary": "A proposed CLI tool or script to quickly package logs and code into the clipboard to reduce the manual chore of context assembly."
+      },
+      {
+        "id": "2fbad39f-48cf-455e-9089-b40f97274c1d",
+        "type": "action",
+        "label": "Narrow-Focus Claude Code Session",
+        "summary": "A strategy to limit the agent's scope using explicit instructions to prevent unnecessary file scanning and reduce token usage."
+      },
+      {
+        "id": "8b302054-3b40-43b9-89a0-31e44ac3bf5c",
+        "type": "action",
+        "label": "Lighter Local Bridge",
+        "summary": "Using tools like Cursor or the Continue extension to provide local context to an AI without the full agentic cost of Claude Code."
+      },
+      {
+        "id": "ad865511-59f3-44cf-8b54-eec284f38647",
+        "type": "action",
+        "label": "Living Appendix",
+        "summary": "Maintaining a 'Current State' section in the Design Doc that the agent updates after major sessions to keep the context current."
+      }
+    ]
+  }
+]
