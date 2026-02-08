@@ -1,0 +1,233 @@
+{
+  "meta": {
+    "session_id": "demo_1770128947719",
+    "title": "Meditation and Mental Clarity",
+    "created_at": "2026-02-04T20:22:19.192130",
+    "updated_at": "2026-02-04T20:26:29.599719",
+    "turn_count": 1,
+    "node_count": 7,
+    "filename": "session_demo_1770128947719.json",
+    "tags": [],
+    "summary": "Explored using meditation for mental clarity, reframing the act of returning to focus as a mental strength exercise.",
+    "themes": [
+      "Metacognitive Awareness",
+      "Acceptance of Mental Noise",
+      "Growth Mindset in Mindfulness"
+    ],
+    "emotions": [
+      "Curious",
+      "Relieved",
+      "Reflective",
+      "Mindful",
+      "Hopeful"
+    ],
+    "key_labels": [
+      "Pattern In Persistent Thoughts",
+      "Caught Up In The Thought",
+      "Moment Of Awakening",
+      "Bicep Curl For Your Brain"
+    ],
+    "key_nodes": [
+      {
+        "id": "e808e769-ef97-4e2d-9e91-498842831d72",
+        "type": "action",
+        "label": "Pattern In Persistent Thoughts",
+        "summary": "An invitation to investigate whether recurring thoughts relate to unfinished business or uncertainties about the future."
+      },
+      {
+        "id": "df295f5b-2fbb-495a-a7b5-f1715bb72eb3",
+        "type": "friction",
+        "label": "Caught Up In The Thought",
+        "summary": "The user occasionally loses their detached perspective and starts thinking along with persistent thoughts instead of just observing them."
+      },
+      {
+        "id": "545c0010-2850-4742-a89c-016464116d2c",
+        "type": "spark",
+        "label": "Moment Of Awakening",
+        "summary": "The AI reframes the moment of realizing one has been swept away by a thought as the most important part of the session, rather than a failure."
+      },
+      {
+        "id": "ac6e4c9e-fa85-44a1-af07-16e7536b378a",
+        "type": "spark",
+        "label": "Bicep Curl For Your Brain",
+        "summary": "A metaphor describing the act of getting caught by a thought and returning to observation as the specific exercise that builds mental strength."
+      }
+    ]
+  },
+  "state": {
+    "nodes": {
+      "ad9d527e-0dfb-4b15-bf57-b0a18e01be6e": {
+        "id": "ad9d527e-0dfb-4b15-bf57-b0a18e01be6e",
+        "label": "Recently, I've had some new...",
+        "type": "root",
+        "rich_summary": "Conversation root node",
+        "original_context": {
+          "raw_text": "",
+          "pre_text": null,
+          "post_text": null,
+          "speaker_role": "system",
+          "turn_id": 0
+        },
+        "source": "user",
+        "status": "active",
+        "children_ids": [
+          "c4a38f15-9ab1-4543-881a-f10861c68ac0",
+          "859afc98-38ba-4d2e-85ec-e4e6dfa2e397",
+          "df295f5b-2fbb-495a-a7b5-f1715bb72eb3",
+          "545c0010-2850-4742-a89c-016464116d2c",
+          "ac6e4c9e-fa85-44a1-af07-16e7536b378a",
+          "e808e769-ef97-4e2d-9e91-498842831d72"
+        ],
+        "parent_id": null,
+        "relations": []
+      },
+      "c4a38f15-9ab1-4543-881a-f10861c68ac0": {
+        "id": "c4a38f15-9ab1-4543-881a-f10861c68ac0",
+        "label": "Mind Feels Clearer",
+        "type": "fact",
+        "rich_summary": "The user reports that after practicing brief meditation techniques when tired, they experience a sense of mental clarity rather than exhaustion.",
+        "original_context": {
+          "raw_text": "The user reports that after practicing brief meditation techniques when tired, they experience a sense of mental clarity rather than exhaustion.",
+          "pre_text": null,
+          "post_text": null,
+          "speaker_role": "user",
+          "turn_id": 1
+        },
+        "source": "user",
+        "status": "active",
+        "children_ids": [],
+        "parent_id": "ad9d527e-0dfb-4b15-bf57-b0a18e01be6e",
+        "relations": []
+      },
+      "859afc98-38ba-4d2e-85ec-e4e6dfa2e397": {
+        "id": "859afc98-38ba-4d2e-85ec-e4e6dfa2e397",
+        "label": "Detached Observer",
+        "type": "fact",
+        "rich_summary": "A meditation technique involving emptying the mind and observing thoughts as they float up without getting drawn into them.",
+        "original_context": {
+          "raw_text": "A meditation technique involving emptying the mind and observing thoughts as they float up without getting drawn into them.",
+          "pre_text": null,
+          "post_text": null,
+          "speaker_role": "user",
+          "turn_id": 1
+        },
+        "source": "user",
+        "status": "active",
+        "children_ids": [],
+        "parent_id": "ad9d527e-0dfb-4b15-bf57-b0a18e01be6e",
+        "relations": [
+          {
+            "target_id": "c4a38f15-9ab1-4543-881a-f10861c68ac0",
+            "relation_type": "leads_to"
+          },
+          {
+            "target_id": "df295f5b-2fbb-495a-a7b5-f1715bb72eb3",
+            "relation_type": "causes"
+          }
+        ]
+      },
+      "df295f5b-2fbb-495a-a7b5-f1715bb72eb3": {
+        "id": "df295f5b-2fbb-495a-a7b5-f1715bb72eb3",
+        "label": "Caught Up In The Thought",
+        "type": "friction",
+        "rich_summary": "The user occasionally loses their detached perspective and starts thinking along with persistent thoughts instead of just observing them.",
+        "original_context": {
+          "raw_text": "The user occasionally loses their detached perspective and starts thinking along with persistent thoughts instead of just observing them.",
+          "pre_text": null,
+          "post_text": null,
+          "speaker_role": "user",
+          "turn_id": 1
+        },
+        "source": "user",
+        "status": "active",
+        "children_ids": [],
+        "parent_id": "ad9d527e-0dfb-4b15-bf57-b0a18e01be6e",
+        "relations": []
+      },
+      "545c0010-2850-4742-a89c-016464116d2c": {
+        "id": "545c0010-2850-4742-a89c-016464116d2c",
+        "label": "Moment Of Awakening",
+        "type": "spark",
+        "rich_summary": "The AI reframes the moment of realizing one has been swept away by a thought as the most important part of the session, rather than a failure.",
+        "original_context": {
+          "raw_text": "The AI reframes the moment of realizing one has been swept away by a thought as the most important part of the session, rather than a failure.",
+          "pre_text": null,
+          "post_text": null,
+          "speaker_role": "ai",
+          "turn_id": 1
+        },
+        "source": "ai",
+        "status": "active",
+        "children_ids": [],
+        "parent_id": "ad9d527e-0dfb-4b15-bf57-b0a18e01be6e",
+        "relations": [
+          {
+            "target_id": "df295f5b-2fbb-495a-a7b5-f1715bb72eb3",
+            "relation_type": "resolves"
+          }
+        ]
+      },
+      "ac6e4c9e-fa85-44a1-af07-16e7536b378a": {
+        "id": "ac6e4c9e-fa85-44a1-af07-16e7536b378a",
+        "label": "Bicep Curl For Your Brain",
+        "type": "spark",
+        "rich_summary": "A metaphor describing the act of getting caught by a thought and returning to observation as the specific exercise that builds mental strength.",
+        "original_context": {
+          "raw_text": "A metaphor describing the act of getting caught by a thought and returning to observation as the specific exercise that builds mental strength.",
+          "pre_text": null,
+          "post_text": null,
+          "speaker_role": "ai",
+          "turn_id": 1
+        },
+        "source": "ai",
+        "status": "active",
+        "children_ids": [],
+        "parent_id": "ad9d527e-0dfb-4b15-bf57-b0a18e01be6e",
+        "relations": [
+          {
+            "target_id": "df295f5b-2fbb-495a-a7b5-f1715bb72eb3",
+            "relation_type": "resolves"
+          }
+        ]
+      },
+      "e808e769-ef97-4e2d-9e91-498842831d72": {
+        "id": "e808e769-ef97-4e2d-9e91-498842831d72",
+        "label": "Pattern In Persistent Thoughts",
+        "type": "action",
+        "rich_summary": "An invitation to investigate whether recurring thoughts relate to unfinished business or uncertainties about the future.",
+        "original_context": {
+          "raw_text": "An invitation to investigate whether recurring thoughts relate to unfinished business or uncertainties about the future.",
+          "pre_text": null,
+          "post_text": null,
+          "speaker_role": "ai",
+          "turn_id": 1
+        },
+        "source": "ai",
+        "status": "active",
+        "children_ids": [],
+        "parent_id": "ad9d527e-0dfb-4b15-bf57-b0a18e01be6e",
+        "relations": [
+          {
+            "target_id": "545c0010-2850-4742-a89c-016464116d2c",
+            "relation_type": "leads_to"
+          }
+        ]
+      }
+    },
+    "root_id": "ad9d527e-0dfb-4b15-bf57-b0a18e01be6e",
+    "active_node_id": "e808e769-ef97-4e2d-9e91-498842831d72",
+    "current_input": "Recently, I've had some new thoughts about meditation. It seems that when I'm feeling tired, after trying some of these little techniques, I don't feel so tired anymore; instead, my mind feels clearer. One technique I saw online involves completely emptying your mind, allowing thoughts to float up, observing what those thoughts are, and not getting drawn into them, but simply observing the thoughts in your mind as a detached observer. Doing this for two or three minutes makes me feel very relaxed. Of course, with some more persistent thoughts, I sometimes get caught up in the thought itself while observing it, and start thinking along with that thought. But then I realize I'm supposed to be an observer, and I gradually detach myself again.",
+    "current_ai_response": "It is fascinating how you’ve transitioned from seeing meditation as a \"fix\" for tiredness to discovering it as a tool for **mental clarity**. What you’re describing is a shift from being the *subject* of your experience to being the *witness* of it.\n\nThat \"tiredness\" you felt initially is often less about physical exhaustion and more about **cognitive clutter**—the weight of carrying every thought as if it were an urgent task. By stepping back into the role of the observer, you aren't just resting; you are **offloading**. You’re putting down the heavy bags you didn’t even realize you were holding.\n\nI noticed an interesting tension in your description of \"getting caught\" by persistent thoughts. You mentioned that when you realize you’ve been drawn in, you \"gradually detach yourself again.\" \n\nThere is a powerful reframe here that might help you:\n\n**The \"catch\" is not a failure of the technique; it is the point of the technique.** \n\nIn the world of mindfulness, the moment you realize you’ve been swept away by a thought is the most important moment of the entire session. That is the **\"moment of awakening.\"** If you never got lost, you would never have the opportunity to practice the act of returning. It’s like a bicep curl for your brain—the \"getting caught and coming back\" is where the actual strength is built. \n\nThe fact that you can do this in just two or three minutes suggests that your mind is highly responsive to this **spatial shift**—creating a small gap between \"me\" and \"my thoughts.\"\n\nI’m curious about those \"persistent thoughts\" you mentioned. When you find yourself getting caught up in them, do you notice a pattern in what they are trying to tell you? Are they usually about **unfinished business**, or are they more about **uncertainties regarding the future**?",
+    "history": [
+      {
+        "role": "user",
+        "content": "Recently, I've had some new thoughts about meditation. It seems that when I'm feeling tired, after trying some of these little techniques, I don't feel so tired anymore; instead, my mind feels clearer. One technique I saw online involves completely emptying your mind, allowing thoughts to float up, observing what those thoughts are, and not getting drawn into them, but simply observing the thoughts in your mind as a detached observer. Doing this for two or three minutes makes me feel very relaxed. Of course, with some more persistent thoughts, I sometimes get caught up in the thought itself while observing it, and start thinking along with that thought. But then I realize I'm supposed to be an observer, and I gradually detach myself again."
+      },
+      {
+        "role": "ai",
+        "content": "It is fascinating how you’ve transitioned from seeing meditation as a \"fix\" for tiredness to discovering it as a tool for **mental clarity**. What you’re describing is a shift from being the *subject* of your experience to being the *witness* of it.\n\nThat \"tiredness\" you felt initially is often less about physical exhaustion and more about **cognitive clutter**—the weight of carrying every thought as if it were an urgent task. By stepping back into the role of the observer, you aren't just resting; you are **offloading**. You’re putting down the heavy bags you didn’t even realize you were holding.\n\nI noticed an interesting tension in your description of \"getting caught\" by persistent thoughts. You mentioned that when you realize you’ve been drawn in, you \"gradually detach yourself again.\" \n\nThere is a powerful reframe here that might help you:\n\n**The \"catch\" is not a failure of the technique; it is the point of the technique.** \n\nIn the world of mindfulness, the moment you realize you’ve been swept away by a thought is the most important moment of the entire session. That is the **\"moment of awakening.\"** If you never got lost, you would never have the opportunity to practice the act of returning. It’s like a bicep curl for your brain—the \"getting caught and coming back\" is where the actual strength is built. \n\nThe fact that you can do this in just two or three minutes suggests that your mind is highly responsive to this **spatial shift**—creating a small gap between \"me\" and \"my thoughts.\"\n\nI’m curious about those \"persistent thoughts\" you mentioned. When you find yourself getting caught up in them, do you notice a pattern in what they are trying to tell you? Are they usually about **unfinished business**, or are they more about **uncertainties regarding the future**?"
+      }
+    ],
+    "turn_count": 1
+  }
+}

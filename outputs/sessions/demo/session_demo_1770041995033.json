@@ -1,0 +1,234 @@
+{
+  "meta": {
+    "session_id": "demo_1770041995033",
+    "title": "Nighttime Negativity and Morning Energy",
+    "created_at": "2025-12-02T22:23:37.123019",
+    "updated_at": "2025-12-03T20:31:38.663410",
+    "turn_count": 1,
+    "node_count": 7,
+    "filename": "session_demo_1770041995033.json",
+    "tags": [],
+    "summary": "Explored why negative thoughts intensify at night after phone use, identifying the shift from morning executive control to nighttime vulnerability.",
+    "themes": [
+      "Cognitive Resource Depletion",
+      "Sensory Vacuum Response",
+      "Loss of Executive Control"
+    ],
+    "emotions": [
+      "Anxious",
+      "Vulnerable",
+      "Overwhelmed",
+      "Curious",
+      "Helpless"
+    ],
+    "key_labels": [
+      "Physical Sensation",
+      "Uncontrollable Negativity",
+      "Cognitive Shield",
+      "Sensory Vacuum"
+    ],
+    "key_nodes": [
+      {
+        "id": "ce1b94d1-ff2e-412b-9406-c5cf10c385fd",
+        "type": "action",
+        "label": "Physical Sensation",
+        "summary": "The AI suggests identifying the specific physical feeling (e.g., chest drop or buzzing) to determine if the issue is mental processing or bodily tension."
+      },
+      {
+        "id": "fe91713e-c23e-4cf3-bfbe-401448a806f2",
+        "type": "friction",
+        "label": "Uncontrollable Negativity",
+        "summary": "At night, specifically before falling asleep, the user's thoughts become uncontrollable and lean toward negative topics that cause distress."
+      },
+      {
+        "id": "5029e6ea-6f39-4133-b34e-e6a69600450e",
+        "type": "spark",
+        "label": "Cognitive Shield",
+        "summary": "The AI reframes morning energy as a peak in Executive Function that acts as a shield, allowing the brain to filter out or ignore intrusive thoughts."
+      },
+      {
+        "id": "5cb9865b-34d3-4877-8845-0f50179ab906",
+        "type": "spark",
+        "label": "Sensory Vacuum",
+        "summary": "Putting the phone down creates a sudden lack of external data, causing the brain to auto-generate high-intensity signals like anxiety to fill the void."
+      }
+    ]
+  },
+  "state": {
+    "nodes": {
+      "f495f5d0-3694-41ab-83c4-19cddc62fb8c": {
+        "id": "f495f5d0-3694-41ab-83c4-19cddc62fb8c",
+        "label": "Why is it that at night, when...",
+        "type": "root",
+        "rich_summary": "Conversation root node",
+        "original_context": {
+          "raw_text": "",
+          "pre_text": null,
+          "post_text": null,
+          "speaker_role": "system",
+          "turn_id": 0
+        },
+        "source": "user",
+        "status": "active",
+        "children_ids": [
+          "89ba07bf-d872-47e4-a511-329eb9033214",
+          "fe91713e-c23e-4cf3-bfbe-401448a806f2",
+          "f5dd4ded-3316-4cf9-93f9-dcf59e09579c",
+          "5029e6ea-6f39-4133-b34e-e6a69600450e",
+          "5cb9865b-34d3-4877-8845-0f50179ab906",
+          "ce1b94d1-ff2e-412b-9406-c5cf10c385fd"
+        ],
+        "parent_id": null,
+        "relations": []
+      },
+      "89ba07bf-d872-47e4-a511-329eb9033214": {
+        "id": "89ba07bf-d872-47e4-a511-329eb9033214",
+        "label": "Morning Energy",
+        "type": "fact",
+        "rich_summary": "The user reports feeling energetic and mentally stable in the morning, a state where negative thoughts do not occur.",
+        "original_context": {
+          "raw_text": "The user reports feeling energetic and mentally stable in the morning, a state where negative thoughts do not occur.",
+          "pre_text": null,
+          "post_text": null,
+          "speaker_role": "user",
+          "turn_id": 1
+        },
+        "source": "user",
+        "status": "active",
+        "children_ids": [],
+        "parent_id": "f495f5d0-3694-41ab-83c4-19cddc62fb8c",
+        "relations": [
+          {
+            "target_id": "5029e6ea-6f39-4133-b34e-e6a69600450e",
+            "relation_type": "leads_to"
+          }
+        ]
+      },
+      "fe91713e-c23e-4cf3-bfbe-401448a806f2": {
+        "id": "fe91713e-c23e-4cf3-bfbe-401448a806f2",
+        "label": "Uncontrollable Negativity",
+        "type": "friction",
+        "rich_summary": "At night, specifically before falling asleep, the user's thoughts become uncontrollable and lean toward negative topics that cause distress.",
+        "original_context": {
+          "raw_text": "At night, specifically before falling asleep, the user's thoughts become uncontrollable and lean toward negative topics that cause distress.",
+          "pre_text": null,
+          "post_text": null,
+          "speaker_role": "user",
+          "turn_id": 1
+        },
+        "source": "user",
+        "status": "active",
+        "children_ids": [],
+        "parent_id": "f495f5d0-3694-41ab-83c4-19cddc62fb8c",
+        "relations": [
+          {
+            "target_id": "ce1b94d1-ff2e-412b-9406-c5cf10c385fd",
+            "relation_type": "leads_to"
+          }
+        ]
+      },
+      "f5dd4ded-3316-4cf9-93f9-dcf59e09579c": {
+        "id": "f5dd4ded-3316-4cf9-93f9-dcf59e09579c",
+        "label": "Put Down My Phone",
+        "type": "fact",
+        "rich_summary": "The onset of negative thoughts occurs immediately after the user stops using their phone before bed.",
+        "original_context": {
+          "raw_text": "The onset of negative thoughts occurs immediately after the user stops using their phone before bed.",
+          "pre_text": null,
+          "post_text": null,
+          "speaker_role": "user",
+          "turn_id": 1
+        },
+        "source": "user",
+        "status": "active",
+        "children_ids": [],
+        "parent_id": "f495f5d0-3694-41ab-83c4-19cddc62fb8c",
+        "relations": [
+          {
+            "target_id": "5cb9865b-34d3-4877-8845-0f50179ab906",
+            "relation_type": "causes"
+          }
+        ]
+      },
+      "5029e6ea-6f39-4133-b34e-e6a69600450e": {
+        "id": "5029e6ea-6f39-4133-b34e-e6a69600450e",
+        "label": "Cognitive Shield",
+        "type": "spark",
+        "rich_summary": "The AI reframes morning energy as a peak in Executive Function that acts as a shield, allowing the brain to filter out or ignore intrusive thoughts.",
+        "original_context": {
+          "raw_text": "The AI reframes morning energy as a peak in Executive Function that acts as a shield, allowing the brain to filter out or ignore intrusive thoughts.",
+          "pre_text": null,
+          "post_text": null,
+          "speaker_role": "ai",
+          "turn_id": 1
+        },
+        "source": "ai",
+        "status": "active",
+        "children_ids": [],
+        "parent_id": "f495f5d0-3694-41ab-83c4-19cddc62fb8c",
+        "relations": [
+          {
+            "target_id": "fe91713e-c23e-4cf3-bfbe-401448a806f2",
+            "relation_type": "opposes"
+          }
+        ]
+      },
+      "5cb9865b-34d3-4877-8845-0f50179ab906": {
+        "id": "5cb9865b-34d3-4877-8845-0f50179ab906",
+        "label": "Sensory Vacuum",
+        "type": "spark",
+        "rich_summary": "Putting the phone down creates a sudden lack of external data, causing the brain to auto-generate high-intensity signals like anxiety to fill the void.",
+        "original_context": {
+          "raw_text": "Putting the phone down creates a sudden lack of external data, causing the brain to auto-generate high-intensity signals like anxiety to fill the void.",
+          "pre_text": null,
+          "post_text": null,
+          "speaker_role": "ai",
+          "turn_id": 1
+        },
+        "source": "ai",
+        "status": "active",
+        "children_ids": [],
+        "parent_id": "f495f5d0-3694-41ab-83c4-19cddc62fb8c",
+        "relations": [
+          {
+            "target_id": "fe91713e-c23e-4cf3-bfbe-401448a806f2",
+            "relation_type": "causes"
+          }
+        ]
+      },
+      "ce1b94d1-ff2e-412b-9406-c5cf10c385fd": {
+        "id": "ce1b94d1-ff2e-412b-9406-c5cf10c385fd",
+        "label": "Physical Sensation",
+        "type": "action",
+        "rich_summary": "The AI suggests identifying the specific physical feeling (e.g., chest drop or buzzing) to determine if the issue is mental processing or bodily tension.",
+        "original_context": {
+          "raw_text": "The AI suggests identifying the specific physical feeling (e.g., chest drop or buzzing) to determine if the issue is mental processing or bodily tension.",
+          "pre_text": null,
+          "post_text": null,
+          "speaker_role": "ai",
+          "turn_id": 1
+        },
+        "source": "ai",
+        "status": "active",
+        "children_ids": [],
+        "parent_id": "f495f5d0-3694-41ab-83c4-19cddc62fb8c",
+        "relations": []
+      }
+    },
+    "root_id": "f495f5d0-3694-41ab-83c4-19cddc62fb8c",
+    "active_node_id": "ce1b94d1-ff2e-412b-9406-c5cf10c385fd",
+    "current_input": "Why is it that at night, when I'm not feeling well mentally, especially before falling asleep, my thoughts gradually become uncontrollable, and I start thinking about negative things that make me feel bad? For example, after I put down my phone before bed, negative thoughts arise, some of which are unrelated to bad memories.  These thoughts don't occur when I'm feeling energetic in the morning.",
+    "current_ai_response": "It is a heavy, almost claustrophobic experience when the quiet of the night—which should be a sanctuary—instead becomes a theater for **uncontrollable negativity**. \n\nWhat you are describing is a common human struggle, but the specific way you’ve noticed the contrast between your \"morning energy\" and your \"nighttime vulnerability\" holds the key to understanding what is happening.\n\nThere are a few layers to why your mind behaves this way specifically when the lights go out:\n\n### The Dissolving of the \"Cognitive Shield\"\nIn the morning, when you feel energetic, your **Executive Function** is at its peak. This is the part of your brain responsible for focus, logic, and—crucially—**emotional regulation**. You have the \"fuel\" to push away intrusive thoughts or dismiss them as irrational. \n\nBy the time you are lying in bed, that fuel is spent. Your \"filter\" is exhausted. Without that cognitive shield, your brain can no longer keep the \"noise\" at the gates. The negative thoughts aren't necessarily \"new\"; they are often the background static that your energetic self was simply strong enough to ignore during the day.\n\n### The \"Vacuum Effect\" of the Phone\nYou mentioned that these thoughts arise specifically after you **put down your phone**. For many of us, the phone acts as a \"digital pacifier.\" It provides a constant stream of external stimulation that occupies the brain’s processing power. \n\nWhen you put the phone down, you create a **sudden sensory vacuum**. Your brain, which has been in \"input mode\" all day, suddenly has no external data to process. In that silence, it begins to \"auto-generate\" content. If your mental state is already low, the brain tends to reach for high-intensity signals to fill the void—and unfortunately, **anxiety and negativity are high-intensity signals** that grab our attention more effectively than calm ones.\n\n### Processing vs. Perseverating\nThere is a subtle but important distinction in what you shared: you noted that some thoughts are **unrelated to bad memories**. This suggests that your brain isn't necessarily trying to solve a specific past problem; rather, it is in a state of **emotional \"overflow.\"** \n\nWhen we are busy and energetic, we \"shelf\" small stresses and micro-anxieties. At night, your system finally has the \"quiet\" it needs to process this debris. But because you are tired, instead of \"processing\" (which leads to resolution), the brain starts \"perseverating\" (which leads to a loop of feeling bad).\n\n***\n\nIt seems there is a **tension** between your daytime self, which is productive and shielded, and your nighttime self, which is left to deal with the \"leftovers\" of your mental energy.\n\nTo look a bit deeper into this: When you put the phone down and that first negative thought arrives, **what is the physical sensation in your body?** Does it feel like a sudden drop in your chest, or more like a restless buzzing that won't let you settle? \n\nUnderstanding whether this is your brain trying to **\"solve\"** something or your body trying to **\"release\"** tension might change how we look at that pre-sleep window.",
+    "history": [
+      {
+        "role": "user",
+        "content": "Why is it that at night, when I'm not feeling well mentally, especially before falling asleep, my thoughts gradually become uncontrollable, and I start thinking about negative things that make me feel bad? For example, after I put down my phone before bed, negative thoughts arise, some of which are unrelated to bad memories.  These thoughts don't occur when I'm feeling energetic in the morning."
+      },
+      {
+        "role": "ai",
+        "content": "It is a heavy, almost claustrophobic experience when the quiet of the night—which should be a sanctuary—instead becomes a theater for **uncontrollable negativity**. \n\nWhat you are describing is a common human struggle, but the specific way you’ve noticed the contrast between your \"morning energy\" and your \"nighttime vulnerability\" holds the key to understanding what is happening.\n\nThere are a few layers to why your mind behaves this way specifically when the lights go out:\n\n### The Dissolving of the \"Cognitive Shield\"\nIn the morning, when you feel energetic, your **Executive Function** is at its peak. This is the part of your brain responsible for focus, logic, and—crucially—**emotional regulation**. You have the \"fuel\" to push away intrusive thoughts or dismiss them as irrational. \n\nBy the time you are lying in bed, that fuel is spent. Your \"filter\" is exhausted. Without that cognitive shield, your brain can no longer keep the \"noise\" at the gates. The negative thoughts aren't necessarily \"new\"; they are often the background static that your energetic self was simply strong enough to ignore during the day.\n\n### The \"Vacuum Effect\" of the Phone\nYou mentioned that these thoughts arise specifically after you **put down your phone**. For many of us, the phone acts as a \"digital pacifier.\" It provides a constant stream of external stimulation that occupies the brain’s processing power. \n\nWhen you put the phone down, you create a **sudden sensory vacuum**. Your brain, which has been in \"input mode\" all day, suddenly has no external data to process. In that silence, it begins to \"auto-generate\" content. If your mental state is already low, the brain tends to reach for high-intensity signals to fill the void—and unfortunately, **anxiety and negativity are high-intensity signals** that grab our attention more effectively than calm ones.\n\n### Processing vs. Perseverating\nThere is a subtle but important distinction in what you shared: you noted that some thoughts are **unrelated to bad memories**. This suggests that your brain isn't necessarily trying to solve a specific past problem; rather, it is in a state of **emotional \"overflow.\"** \n\nWhen we are busy and energetic, we \"shelf\" small stresses and micro-anxieties. At night, your system finally has the \"quiet\" it needs to process this debris. But because you are tired, instead of \"processing\" (which leads to resolution), the brain starts \"perseverating\" (which leads to a loop of feeling bad).\n\n***\n\nIt seems there is a **tension** between your daytime self, which is productive and shielded, and your nighttime self, which is left to deal with the \"leftovers\" of your mental energy.\n\nTo look a bit deeper into this: When you put the phone down and that first negative thought arrives, **what is the physical sensation in your body?** Does it feel like a sudden drop in your chest, or more like a restless buzzing that won't let you settle? \n\nUnderstanding whether this is your brain trying to **\"solve\"** something or your body trying to **\"release\"** tension might change how we look at that pre-sleep window."
+      }
+    ],
+    "turn_count": 1
+  }
+}

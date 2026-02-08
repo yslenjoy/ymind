@@ -51,11 +51,8 @@ __pycache__/
 backend/.cache/
 
 # Output directories
-outputs/tree-visual-only-json/*.json
 outputs/sessions/*
 !outputs/sessions/demo/
-outputs/sessions/demo/*.json
-!outputs/sessions/demo/index.json
 
 # Personal development configs
 .claude/

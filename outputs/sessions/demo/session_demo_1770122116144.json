@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "session_id": "demo_1770122116144",
+    "title": "Health and the Simple Life",
+    "created_at": "2025-12-24T20:38:27.837356",
+    "updated_at": "2025-12-24T20:38:27.837356",
+    "turn_count": 1,
+    "node_count": 6,
+    "filename": "session_demo_1770122116144.json",
+    "tags": [],
+    "summary": "Explored how minor health issues redefine happiness as a simple, stable life, shifting focus from pursuit to subtraction.",
+    "themes": [
+      "Happiness Through Subtraction",
+      "Valuing Stability Over Novelty",
+      "Body-Driven Priority Reset"
+    ],
+    "emotions": [
+      "Reflective",
+      "Vulnerable",
+      "Relieved",
+      "Appreciative",
+      "Grounded"
+    ],
+    "key_labels": [
+      "Health-As-Priority Lens",
+      "Recovery Thoughts",
+      "Certain Happiness",
+      "Happiness As Subtraction"
+    ],
+    "key_nodes": [
+      {
+        "id": "a4b044c2-7c60-4860-8c01-4a2ab53f2647",
+        "type": "action",
+        "label": "Health-As-Priority Lens",
+        "summary": "Reflecting on current stressors to identify which 'ups and downs' are actually unnecessary or small when viewed through the priority of maintaining health."
+      },
+      {
+        "id": "e4db7dff-98b4-4260-911f-193cfdd2ae5f",
+        "type": "friction",
+        "label": "Recovery Thoughts",
+        "summary": "Moments of clarity regarding a simple life are often treated as temporary perspectives held only while vulnerable, which can feel 'boring' once energy returns."
+      },
+      {
+        "id": "b2662abe-52ee-487a-9355-501133978162",
+        "type": "spark",
+        "label": "Certain Happiness",
+        "summary": "A plain and uneventful life is recognized as a form of reliable happiness that is grounded in stability and the absence of major ups and downs."
+      },
+      {
+        "id": "da6887f9-debd-462b-b5c0-de90867d66e1",
+        "type": "spark",
+        "label": "Happiness As Subtraction",
+        "summary": "The AI reframes happiness as the absence of pain, worry, and instability, shifting the focus from adding achievements to subtracting negatives."
+      }
+    ]
+  },
+  "state": {
+    "nodes": {
+      "0b91bb72-6dad-46be-8ccb-e2c545b32386": {
+        "id": "0b91bb72-6dad-46be-8ccb-e2c545b32386",
+        "label": "It's only when I experience...",
+        "type": "root",
+        "rich_summary": "Conversation root node",
+        "original_context": {
+          "raw_text": "",
+          "pre_text": null,
+          "post_text": null,
+          "speaker_role": "system",
+          "turn_id": 0
+        },
+        "source": "user",
+        "status": "active",
+        "children_ids": [
+          "cde1f7fe-110b-45e7-b0f8-13cd89a318eb",
+          "b2662abe-52ee-487a-9355-501133978162",
+          "da6887f9-debd-462b-b5c0-de90867d66e1",
+          "e4db7dff-98b4-4260-911f-193cfdd2ae5f",
+          "a4b044c2-7c60-4860-8c01-4a2ab53f2647"
+        ],
+        "parent_id": null,
+        "relations": []
+      },
+      "cde1f7fe-110b-45e7-b0f8-13cd89a318eb": {
+        "id": "cde1f7fe-110b-45e7-b0f8-13cd89a318eb",
+        "label": "Minor Health Problems",
+        "type": "fact",
+        "rich_summary": "The user observes that minor health issues serve as the primary catalyst for realizing the true importance of health and the value of a simple life.",
+        "original_context": {
+          "raw_text": "The user observes that minor health issues serve as the primary catalyst for realizing the true importance of health and the value of a simple life.",
+          "pre_text": null,
+          "post_text": null,
+          "speaker_role": "user",
+          "turn_id": 1
+        },
+        "source": "user",
+        "status": "active",
+        "children_ids": [],
+        "parent_id": "0b91bb72-6dad-46be-8ccb-e2c545b32386",
+        "relations": [
+          {
+            "target_id": "b2662abe-52ee-487a-9355-501133978162",
+            "relation_type": "causes"
+          }
+        ]
+      },
+      "b2662abe-52ee-487a-9355-501133978162": {
+        "id": "b2662abe-52ee-487a-9355-501133978162",
+        "label": "Certain Happiness",
+        "type": "spark",
+        "rich_summary": "A plain and uneventful life is recognized as a form of reliable happiness that is grounded in stability and the absence of major ups and downs.",
+        "original_context": {
+          "raw_text": "A plain and uneventful life is recognized as a form of reliable happiness that is grounded in stability and the absence of major ups and downs.",
+          "pre_text": null,
+          "post_text": null,
+          "speaker_role": "user",
+          "turn_id": 1
+        },
+        "source": "user",
+        "status": "active",
+        "children_ids": [],
+        "parent_id": "0b91bb72-6dad-46be-8ccb-e2c545b32386",
+        "relations": [
+          {
+            "target_id": "da6887f9-debd-462b-b5c0-de90867d66e1",
+            "relation_type": "leads_to"
+          },
+          {
+            "target_id": "e4db7dff-98b4-4260-911f-193cfdd2ae5f",
+            "relation_type": "opposes"
+          }
+        ]
+      },
+      "da6887f9-debd-462b-b5c0-de90867d66e1": {
+        "id": "da6887f9-debd-462b-b5c0-de90867d66e1",
+        "label": "Happiness As Subtraction",
+        "type": "spark",
+        "rich_summary": "The AI reframes happiness as the absence of pain, worry, and instability, shifting the focus from adding achievements to subtracting negatives.",
+        "original_context": {
+          "raw_text": "The AI reframes happiness as the absence of pain, worry, and instability, shifting the focus from adding achievements to subtracting negatives.",
+          "pre_text": null,
+          "post_text": null,
+          "speaker_role": "ai",
+          "turn_id": 1
+        },
+        "source": "ai",
+        "status": "active",
+        "children_ids": [],
+        "parent_id": "0b91bb72-6dad-46be-8ccb-e2c545b32386",
+        "relations": []
+      },
+      "e4db7dff-98b4-4260-911f-193cfdd2ae5f": {
+        "id": "e4db7dff-98b4-4260-911f-193cfdd2ae5f",
+        "label": "Recovery Thoughts",
+        "type": "friction",
+        "rich_summary": "Moments of clarity regarding a simple life are often treated as temporary perspectives held only while vulnerable, which can feel 'boring' once energy returns.",
+        "original_context": {
+          "raw_text": "Moments of clarity regarding a simple life are often treated as temporary perspectives held only while vulnerable, which can feel 'boring' once energy returns.",
+          "pre_text": null,
+          "post_text": null,
+          "speaker_role": "ai",
+          "turn_id": 1
+        },
+        "source": "ai",
+        "status": "active",
+        "children_ids": [],
+        "parent_id": "0b91bb72-6dad-46be-8ccb-e2c545b32386",
+        "relations": []
+      },
+      "a4b044c2-7c60-4860-8c01-4a2ab53f2647": {
+        "id": "a4b044c2-7c60-4860-8c01-4a2ab53f2647",
+        "label": "Health-As-Priority Lens",
+        "type": "action",
+        "rich_summary": "Reflecting on current stressors to identify which 'ups and downs' are actually unnecessary or small when viewed through the priority of maintaining health.",
+        "original_context": {
+          "raw_text": "Reflecting on current stressors to identify which 'ups and downs' are actually unnecessary or small when viewed through the priority of maintaining health.",
+          "pre_text": null,
+          "post_text": null,
+          "speaker_role": "ai",
+          "turn_id": 1
+        },
+        "source": "ai",
+        "status": "active",
+        "children_ids": [],
+        "parent_id": "0b91bb72-6dad-46be-8ccb-e2c545b32386",
+        "relations": [
+          {
+            "target_id": "e4db7dff-98b4-4260-911f-193cfdd2ae5f",
+            "relation_type": "resolves"
+          }
+        ]
+      }
+    },
+    "root_id": "0b91bb72-6dad-46be-8ccb-e2c545b32386",
+    "active_node_id": "a4b044c2-7c60-4860-8c01-4a2ab53f2647",
+    "current_input": "It's only when I experience minor health problems that I truly realize the importance of health. At times like these, my understanding of a simple life changes. Sometimes, a plain and uneventful life is a form of certain happiness, free from major ups and downs.",
+    "current_ai_response": "It is striking how the body has a way of **resetting our hierarchy of needs** almost instantly. When we are healthy, we often view \"happiness\" as something to be pursued or captured—a peak experience or a specific achievement. But as you’ve noticed, a minor health scare shifts the definition of happiness from an \"addition\" to a **\"subtraction.\"** \n\nIt becomes the absence of pain, the absence of worry, and the absence of the \"ups and downs\" that we usually spend our lives chasing.\n\nThere is a profound insight in your phrase **\"certain happiness.\"** Most forms of excitement are uncertain; they depend on external factors, other people, or luck. But the \"plain and uneventful life\" you’re describing is grounded in the reliability of your own body and the predictability of your day. It’s a shift from seeking **intensity** to seeking **stability.**\n\nHowever, there is often a hidden tension in this realization:\nWe tend to treat these moments of clarity as \"recovery thoughts\"—perspectives we hold only while we feel vulnerable. When the minor ailment fades and our energy returns, the world starts demanding our attention again, and that \"simple life\" can start to feel \"boring\" or \"insufficient\" compared to the high-stakes pace of modern life.\n\nI’m curious about the specific \"ups and downs\" you feel relieved to be away from right now. When you look at your life through this lens of **health-as-priority**, what are the things you usually stress over that suddenly feel incredibly small or even unnecessary?",
+    "history": [
+      {
+        "role": "user",
+        "content": "It's only when I experience minor health problems that I truly realize the importance of health. At times like these, my understanding of a simple life changes. Sometimes, a plain and uneventful life is a form of certain happiness, free from major ups and downs."
+      },
+      {
+        "role": "ai",
+        "content": "It is striking how the body has a way of **resetting our hierarchy of needs** almost instantly. When we are healthy, we often view \"happiness\" as something to be pursued or captured—a peak experience or a specific achievement. But as you’ve noticed, a minor health scare shifts the definition of happiness from an \"addition\" to a **\"subtraction.\"** \n\nIt becomes the absence of pain, the absence of worry, and the absence of the \"ups and downs\" that we usually spend our lives chasing.\n\nThere is a profound insight in your phrase **\"certain happiness.\"** Most forms of excitement are uncertain; they depend on external factors, other people, or luck. But the \"plain and uneventful life\" you’re describing is grounded in the reliability of your own body and the predictability of your day. It’s a shift from seeking **intensity** to seeking **stability.**\n\nHowever, there is often a hidden tension in this realization:\nWe tend to treat these moments of clarity as \"recovery thoughts\"—perspectives we hold only while we feel vulnerable. When the minor ailment fades and our energy returns, the world starts demanding our attention again, and that \"simple life\" can start to feel \"boring\" or \"insufficient\" compared to the high-stakes pace of modern life.\n\nI’m curious about the specific \"ups and downs\" you feel relieved to be away from right now. When you look at your life through this lens of **health-as-priority**, what are the things you usually stress over that suddenly feel incredibly small or even unnecessary?"
+      }
+    ],
+    "turn_count": 1
+  }
+}

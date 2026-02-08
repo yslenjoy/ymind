@@ -1,0 +1,482 @@
+{
+  "analyzed_at": "2026-02-08T15:23:25.904654",
+  "session_hash": "37c0074522a0efa2afdacb03043926a23c7a3a6cd9b426d3587f355c160e3b92",
+  "session_count": 12,
+  "result": {
+    "session_links": [
+      {
+        "source": "demo_1770292254489",
+        "target": "demo_1770215266457",
+        "weight": 3,
+        "type": "evolution",
+        "reason": "While 「Grand Goals and Mindful AI」 establishes the visionary intent for AI, 「Bridging AI and Human Cognition」 translates this into a concrete 10x engineering strategy."
+      },
+      {
+        "source": "demo_1770041995033",
+        "target": "demo_1770044135380",
+        "weight": 2,
+        "type": "thematic",
+        "reason": "Both 「Nighttime Negativity and Morning Energy」 and 「Post-Work Focus and Night Walks」 explore the cognitive shifts that occur at the end of the day."
+      },
+      {
+        "source": "demo_1769955718511",
+        "target": "demo_1770123048767",
+        "weight": 3,
+        "type": "stagnation",
+        "reason": "The 'utilitarian filter' in 「Titanic and the Utilitarian Filter」 evolves into the productivity guilt and 'second shift' anxiety seen in 「Balancing Weekend Rest and AI Learning」."
+      },
+      {
+        "source": "demo_1770215266457",
+        "target": "demo_1770295474063",
+        "weight": 3,
+        "type": "evolution",
+        "reason": "The 'External Brain' concept from 「Bridging AI and Human Cognition」 is practically implemented in the side project discussed in 「Building a Reflection Side Project」."
+      },
+      {
+        "source": "demo_1770044135380",
+        "target": "demo_1770122566385",
+        "weight": 2,
+        "type": "evolution",
+        "reason": "The transition from 'Hyper-selection Mode' in 「Post-Work Focus and Night Walks」 finds a more peaceful resolution in the 'Mind Wandering' of 「Finding Connection After Intellectual Work」."
+      },
+      {
+        "source": "demo_1770212505337",
+        "target": "demo_1770295872905",
+        "weight": 3,
+        "type": "persistence",
+        "reason": "The 'Engineering Pragmatism' explored in 「Manus Acquisition and Engineering Pragmatism」 is applied to solve real-world efficiency problems in 「Managing Claude Code Token Costs」."
+      },
+      {
+        "source": "demo_1770122116144",
+        "target": "demo_1770128947719",
+        "weight": 2,
+        "type": "thematic",
+        "reason": "Both 「Health and the Simple Life」 and 「Meditation and Mental Clarity」 focus on subtraction and clearing cognitive clutter to find stability."
+      },
+      {
+        "source": "demo_1770292254489",
+        "target": "demo_1770295474063",
+        "weight": 2,
+        "type": "persistence",
+        "reason": "The goal of using AI for 'mental clarity' in 「Grand Goals and Mindful AI」 is the driving force behind the reflection system in 「Building a Reflection Side Project」."
+      },
+      {
+        "source": "demo_1770041995033",
+        "target": "demo_1770128947719",
+        "weight": 3,
+        "type": "resolution",
+        "reason": "The 'uncontrollable negativity' of 「Nighttime Negativity and Morning Energy」 is addressed through the metacognitive witnessing techniques in 「Meditation and Mental Clarity」."
+      },
+      {
+        "source": "demo_1770215266457",
+        "target": "demo_1770295872905",
+        "weight": 2,
+        "type": "stagnation",
+        "reason": "The 'Velocity Gap' identified in 「Bridging AI and Human Cognition」 creates the 'Agentic Friction' and token-cost stress in 「Managing Claude Code Token Costs」."
+      },
+      {
+        "source": "demo_1769955718511",
+        "target": "demo_1770122566385",
+        "weight": 3,
+        "type": "evolution",
+        "reason": "The user moves from a 'Utilitarian Filter' that blocks emotion in 「Titanic and the Utilitarian Filter」 to embracing 'Ordinary Moments' in 「Finding Connection After Intellectual Work」."
+      },
+      {
+        "source": "demo_1770123048767",
+        "target": "demo_1770295872905",
+        "weight": 2,
+        "type": "stagnation",
+        "reason": "The pressure to 'keep up' with AI in 「Balancing Weekend Rest and AI Learning」 manifests as the 'Human Middleware' trap in 「Managing Claude Code Token Costs」."
+      }
+    ],
+    "node_resonances": [
+      {
+        "source_session": "demo_1770292254489",
+        "source_node_id": "0b7e37b2-f200-4c23-87fa-4c08c3dea634",
+        "source_node_label": "Functional Incrementalism",
+        "target_session": "demo_1770212505337",
+        "target_node_id": "9accaa62-eee5-44f5-aa0d-3472be8b2b51",
+        "target_node_label": "Speed vs Original Invention",
+        "resonance_type": "contradicts",
+        "reason": "Early on, the user fears incrementalism, but later appreciates the pragmatic value of high-velocity execution over foundational invention."
+      },
+      {
+        "source_session": "demo_1770041995033",
+        "source_node_id": "5029e6ea-6f39-4133-b34e-e6a69600450e",
+        "source_node_label": "Cognitive Shield",
+        "target_session": "demo_1770044135380",
+        "target_node_id": "4dfe9dae-2688-47a7-af1c-d47134d59853",
+        "target_node_label": "Hyper-selection Mode",
+        "resonance_type": "echoes",
+        "reason": "The 'Cognitive Shield' of the morning is the same mechanism as the 'Hyper-selection Mode' that makes post-work relaxation difficult."
+      },
+      {
+        "source_session": "demo_1769955718511",
+        "source_node_id": "100c77a8-5b72-41e7-a299-6fa5762804fe",
+        "source_node_label": "lost that romantic lens",
+        "target_session": "demo_1770122566385",
+        "target_node_id": "ab97feea-95af-4aab-ba41-0cb474f53fa8",
+        "target_node_label": "Mind Wandering",
+        "resonance_type": "resolved",
+        "reason": "The 'romantic lens' lost to rationality is recovered through 'Mind Wandering,' which allows the user to see ordinary beauty again."
+      },
+      {
+        "source_session": "demo_1770215266457",
+        "source_node_id": "552f9935-6131-4e46-9ed5-264c1129ae3e",
+        "source_node_label": "Velocity Gap",
+        "target_session": "demo_1770123048767",
+        "target_node_id": "43b4ee07-d60f-41ec-93be-bd5ca1fc95c2",
+        "target_node_label": "Rest As A Threat To Competitiveness",
+        "resonance_type": "same_friction",
+        "reason": "The fear of the widening gap between current and potential capability directly causes the guilt associated with resting."
+      },
+      {
+        "source_session": "demo_1770044135380",
+        "source_node_id": "e808e769-ef97-4e2d-9e91-498842831d72",
+        "source_node_label": "Pattern In Persistent Thoughts",
+        "target_session": "demo_1770128947719",
+        "resonance_type": "evolved",
+        "reason": "The passive 'waiting' for background tasks evolves into an active metacognitive investigation of those persistent thoughts."
+      },
+      {
+        "source_session": "demo_1770122116144",
+        "source_node_id": "da6887f9-debd-462b-b5c0-de90867d66e1",
+        "source_node_label": "Happiness As Subtraction",
+        "target_session": "demo_1770295872905",
+        "target_node_id": "c731bdba-da19-422f-a24e-f15d8eb48e65",
+        "target_node_label": "Tighten The Scope With .claudignore",
+        "resonance_type": "echoes",
+        "reason": "The philosophical insight of 'subtraction' for happiness is applied technically by 'tightening the scope' to reduce token costs."
+      },
+      {
+        "source_session": "demo_1770212505337",
+        "source_node_id": "6a9517d5-e4ad-4185-8b21-bacb655078c1",
+        "source_node_label": "Maintenance Tax",
+        "target_session": "demo_1770295872905",
+        "target_node_id": "8149b3be-86d7-407a-84a5-5d982e8eab97",
+        "target_node_label": "Consume So Many Tokens",
+        "resonance_type": "same_friction",
+        "reason": "The 'Maintenance Tax' of software is mirrored by the 'Token Tax' of local AI agents; both represent the high cost of maintaining complexity."
+      },
+      {
+        "source_session": "demo_1770292254489",
+        "source_node_id": "3da53aa0-cc04-4da7-8e4d-22386939c57d",
+        "source_node_label": "Name The Difficult Task",
+        "target_session": "demo_1770215266457",
+        "target_node_id": "57490821-cbc3-4b00-91c5-15fece0defbd",
+        "target_node_label": "Organizing And Managing Brain Memory",
+        "resonance_type": "evolved",
+        "reason": "The 'difficult task' of creating lightness is specified as the '10x project' of managing brain memory."
+      },
+      {
+        "source_session": "demo_1770041995033",
+        "source_node_id": "5cb9865b-34d3-4877-8845-0f50179ab906",
+        "source_node_label": "Sensory Vacuum",
+        "target_session": "demo_1770122566385",
+        "target_node_id": "ab97feea-95af-4aab-ba41-0cb474f53fa8",
+        "target_node_label": "Mind Wandering",
+        "resonance_type": "contradicts",
+        "reason": "The 'Sensory Vacuum' at night creates anxiety, while 'Mind Wandering' during the day creates connection and recovery."
+      },
+      {
+        "source_session": "demo_1769955718511",
+        "source_node_id": "0f9499e1-555e-4642-a5ac-15bd29790520",
+        "source_node_label": "struggling to switch gears",
+        "target_session": "demo_1770295872905",
+        "target_node_id": "80bb6c39-d9d3-4305-8dbb-4623f6552653",
+        "target_node_label": "Manually Copying And Pasting",
+        "resonance_type": "same_friction",
+        "reason": "The difficulty in 'switching gears' is exacerbated by manual work that forces the user from 'Creator Mode' to 'Administrator Mode'."
+      },
+      {
+        "source_session": "demo_1770215266457",
+        "source_node_id": "228a9dda-d684-4d10-a532-cdc400e1c6c2",
+        "source_node_label": "Trap Of Infinite Directions",
+        "target_session": "demo_1770295474063",
+        "target_node_id": "dd890b33-c5e6-431b-b54c-e9797bf94c15",
+        "target_node_label": "Visualize The Growth",
+        "resonance_type": "resolved",
+        "reason": "The 'Trap of Infinite Directions' is resolved by creating a 'Tree of Reflection' to map and visualize specific growth paths."
+      },
+      {
+        "source_session": "demo_1770123048767",
+        "source_node_id": "db1f9194-b2c4-40b3-9db9-2543befb45e6",
+        "source_node_label": "High-Cognitive Paradox",
+        "target_session": "demo_1770128947719",
+        "target_node_id": "ac6e4c9e-fa85-44a1-af07-16e7536b378a",
+        "target_node_label": "Bicep Curl For Your Brain",
+        "resonance_type": "echoes",
+        "reason": "Both nodes acknowledge that high-level mental work requires energy, but meditation reframes the effort as a strengthening exercise rather than a drain."
+      },
+      {
+        "source_session": "demo_1770292254489",
+        "source_node_id": "340ef49f-cecf-4124-9fb9-16dcf76eccee",
+        "source_node_label": "Empathy Or Spiritual Insight",
+        "target_session": "demo_1770122566385",
+        "target_node_id": "394772b9-e54e-47d2-bfb2-eaf4b7aad937",
+        "target_node_label": "Sensory Truth",
+        "resonance_type": "echoes",
+        "reason": "The early desire for 'spiritual insight' is grounded in the later discovery of 'Sensory Truth' in ordinary, touching moments."
+      },
+      {
+        "source_session": "demo_1770041995033",
+        "source_node_id": "fe91713e-c23e-4cf3-bfbe-401448a806f2",
+        "source_node_label": "Uncontrollable Negativity",
+        "target_session": "demo_1770122116144",
+        "target_node_id": "e4db7dff-98b4-4260-911f-193cfdd2ae5f",
+        "target_node_label": "Recovery Thoughts",
+        "resonance_type": "contradicts",
+        "reason": "Nighttime negativity is a state of vulnerability, while recovery thoughts during illness provide a grounded, positive clarity."
+      },
+      {
+        "source_session": "demo_1769955718511",
+        "source_node_id": "5bbeeb90-4569-4adc-a1de-1abb18079555",
+        "source_node_label": "labor of self-improvement",
+        "target_session": "demo_1770123048767",
+        "target_node_id": "dc50cdb7-b065-4594-b670-588e5a17af03",
+        "target_node_label": "The Block Of Time Trap",
+        "resonance_type": "same_friction",
+        "reason": "The user consistently turns leisure time into a task-oriented 'labor,' leading to pressure and guilt."
+      },
+      {
+        "source_session": "demo_1770215266457",
+        "source_node_id": "1ea6ca93-4cb9-4515-a7d1-8516929c6af3",
+        "source_node_label": "Huge Disconnect Between AI And The Real World",
+        "target_session": "demo_1770295872905",
+        "target_node_id": "ad865511-59f3-44cf-8b54-eec284f38647",
+        "target_node_label": "Living Appendix",
+        "resonance_type": "resolved",
+        "reason": "The 'disconnect' is bridged by creating a 'Living Appendix' (Design Doc) that anchors AI intelligence to real-world project context."
+      },
+      {
+        "source_session": "demo_1770044135380",
+        "source_node_id": "5149bf22-07d3-4530-a1e0-120038321036",
+        "source_node_label": "Difficult To Focus On Video Content",
+        "target_session": "demo_1770122566385",
+        "target_node_id": "991c7000-e6cb-46e8-9807-675f5fca13bd",
+        "target_node_label": "Digital Noise",
+        "resonance_type": "echoes",
+        "reason": "The inability to focus on videos is a healthy rejection of 'Digital Noise' in favor of high-density ordinary moments."
+      },
+      {
+        "source_session": "demo_1770122116144",
+        "source_node_id": "b2662abe-52ee-487a-9355-501133978162",
+        "source_node_label": "Certain Happiness",
+        "target_session": "demo_1770128947719",
+        "target_node_id": "545c0010-2850-4742-a89c-016464116d2c",
+        "target_node_label": "Moment Of Awakening",
+        "resonance_type": "echoes",
+        "reason": "Both nodes represent a shift from seeking intensity to appreciating the stability of the present moment."
+      },
+      {
+        "source_session": "demo_1770212505337",
+        "source_node_id": "0d1da797-8091-4e10-afce-99527adff4c5",
+        "source_node_label": "Technical Debt in Disguise",
+        "target_session": "demo_1770295872905",
+        "target_node_id": "d1022a33-2ab0-4e56-897c-0bd1f883a00f",
+        "target_node_label": "Define The Agent Threshold",
+        "resonance_type": "resolved",
+        "reason": "Identifying 'Technical Debt' leads to a 'Triage' strategy where the user avoids using expensive agents for simple tasks."
+      },
+      {
+        "source_session": "demo_1770292254489",
+        "source_node_id": "e70e66cb-410d-4158-ba45-f0f9ca0bbc96",
+        "source_node_label": "Intent Is The Only Requirement",
+        "target_session": "demo_1770295872905",
+        "target_node_id": "ad865511-59f3-44cf-8b54-eec284f38647",
+        "target_node_label": "Living Appendix",
+        "resonance_type": "evolved",
+        "reason": "The vision of 'Intent' as the only requirement is realized through the 'Design Doc' which acts as a strategic curator of intent."
+      },
+      {
+        "source_session": "demo_1770041995033",
+        "source_node_id": "ce1b94d1-ff2e-412b-9406-c5cf10c385fd",
+        "source_node_label": "Physical Sensation",
+        "target_session": "demo_1770122116144",
+        "target_node_id": "a4b044c2-7c60-4860-8c01-4a2ab53f2647",
+        "target_node_label": "Health-As-Priority Lens",
+        "resonance_type": "echoes",
+        "reason": "The user is learning to use the body's physical state as a primary signal for mental and emotional prioritization."
+      },
+      {
+        "source_session": "demo_1769955718511",
+        "source_node_id": "856b8ed9-e1bb-4299-8a81-ced3aa392af1",
+        "source_node_label": "develop a different approach",
+        "target_session": "demo_1770295474063",
+        "target_node_id": "054697d7-6d8c-4b00-8b28-fce94e1285a5",
+        "target_node_label": "Side Project To Experiment",
+        "resonance_type": "evolved",
+        "reason": "The vague desire to 'develop a different approach' to life/leisure crystallizes into a formal 'Side Project' for reflection."
+      },
+      {
+        "source_session": "demo_1770215266457",
+        "source_node_id": "6235fe15-7dfb-433d-ae5a-432495617c4c",
+        "source_node_label": "Personal R&D Lab vs. Production Maintenance",
+        "target_session": "demo_1770212505337",
+        "target_node_id": "b5d093ae-6a80-42bc-8689-016c8e39227d",
+        "target_node_label": "\"The Hard Way\"",
+        "resonance_type": "echoes",
+        "reason": "The user's 'Personal R&D Lab' is a way of doing things 'The Hard Way' (rigorous research) while maintaining a pragmatic day job."
+      },
+      {
+        "source_session": "demo_1770044135380",
+        "source_node_id": "2279d67e-e63b-46da-87d7-e0def0c992ec",
+        "source_node_label": "Efficiency-driven Mindset",
+        "target_session": "demo_1770123048767",
+        "target_node_id": "0c7c9ad1-afd1-4d7d-881d-e92aa67db9eb",
+        "target_node_label": "Feeling Behind Those Plans",
+        "resonance_type": "same_friction",
+        "reason": "The efficiency mindset creates a constant feeling of being 'behind,' even during time meant for rest."
+      },
+      {
+        "source_session": "demo_1770295474063",
+        "source_node_id": "fd4ef5e5-c837-4cb4-9f3a-fe3b3a83f737",
+        "source_node_label": "Abrupt Suggestions",
+        "target_session": "demo_1770128947719",
+        "target_node_id": "df295f5b-2fbb-495a-a7b5-f1715bb72eb3",
+        "target_node_label": "Caught Up In The Thought",
+        "resonance_type": "echoes",
+        "reason": "Both nodes describe the internal resistance or distraction that occurs when the mind is not properly 'regulated' or 'witnessed'."
+      }
+    ],
+    "recurring_patterns": [
+      {
+        "pattern_type": "stagnation",
+        "label": "The Optimizer's Exhaustion",
+        "description": "The user consistently applies an efficiency-driven, utilitarian filter to all aspects of life, including leisure, rest, and recovery.",
+        "sessions": [
+          "demo_1769955718511",
+          "demo_1770044135380",
+          "demo_1770123048767",
+          "demo_1770295872905"
+        ],
+        "node_labels": [
+          "utilitarian filter",
+          "Efficiency-driven Mindset",
+          "High-Cognitive Paradox",
+          "Human Middleware Trap"
+        ],
+        "evolution": "This pattern is stagnant; the user recognizes the 'bug' of efficiency but continues to treat recovery as a task to be optimized or a debt to be paid."
+      },
+      {
+        "pattern_type": "evolution",
+        "label": "Engineering the Self",
+        "description": "The user treats their own cognitive processes like a software system, moving from identifying 'bugs' to building 'meta-cognitive infrastructure.'",
+        "sessions": [
+          "demo_1770215266457",
+          "demo_1770295474063",
+          "demo_1770128947719",
+          "demo_1770295872905"
+        ],
+        "node_labels": [
+          "Cognitive Engineering",
+          "Tree of Reflection",
+          "Bicep Curl For Your Brain",
+          "Context Anchor"
+        ],
+        "evolution": "A clear progression from passive observation of cognitive friction to active engineering of tools (side projects, design docs) to manage their own mind."
+      },
+      {
+        "pattern_type": "resolution",
+        "label": "The Decompression Rhythm",
+        "description": "The discovery that 'Mind Wandering' and 'Sensory Mindfulness' are not passive failures but essential acts of recovery.",
+        "sessions": [
+          "demo_1770041995033",
+          "demo_1770044135380",
+          "demo_1770122566385"
+        ],
+        "node_labels": [
+          "Sensory Vacuum",
+          "Decompression Principle",
+          "Mind Wandering"
+        ],
+        "evolution": "The user moved from fearing the 'Sensory Vacuum' at night to intentionally using 'Night Walks' and 'Mind Wandering' as high-value recovery tools."
+      }
+    ],
+    "insights": [
+      {
+        "content": "The user's 'Utilitarian Filter' is a double-edged sword: it enables 10x engineering thinking but creates a 'Velocity Gap' that makes ordinary happiness feel like a wasted investment.",
+        "related_session_ids": [
+          "demo_1769955718511",
+          "demo_1770215266457"
+        ]
+      },
+      {
+        "content": "There is a profound irony in the user's relationship with AI: they use it to seek 'lightness' and 'clarity,' yet the manual labor of managing AI (Human Middleware) is a major source of 'heaviness.'",
+        "related_session_ids": [
+          "demo_1770292254489",
+          "demo_1770295872905"
+        ]
+      },
+      {
+        "content": "The user's 'Night Walks' are a physical implementation of the 'Subtraction' philosophy, intentionally removing sensory data to allow for cognitive integration.",
+        "related_session_ids": [
+          "demo_1770044135380",
+          "demo_1770122116144"
+        ]
+      },
+      {
+        "content": "The 'Tree of Reflection' project is an attempt to solve the 'Linearity' of AI, mirroring the user's own struggle to reconcile high-speed work with non-linear emotional recovery.",
+        "related_session_ids": [
+          "demo_1770295474063",
+          "demo_1770295872905"
+        ]
+      },
+      {
+        "content": "The user's guilt about resting is actually 'Professional Anxiety' in disguise, triggered by the fear that the AI 'Velocity Gap' is widening while they are off-duty.",
+        "related_session_ids": [
+          "demo_1770215266457",
+          "demo_1770123048767"
+        ]
+      },
+      {
+        "content": "Meditation is reframed not as relaxation, but as 'Engineering Maintenance'—a bicep curl to strengthen the 'Cognitive Shield' against nighttime negativity.",
+        "related_session_ids": [
+          "demo_1770041995033",
+          "demo_1770128947719"
+        ]
+      },
+      {
+        "content": "The user is transitioning from being an 'Inspector' of narratives (Titanic) to being a 'Witness' of their own thoughts (Meditation), signaling a shift from external judgment to internal awareness.",
+        "related_session_ids": [
+          "demo_1769955718511",
+          "demo_1770128947719"
+        ]
+      },
+      {
+        "content": "The 'Design Doc' strategy in coding is a psychological breakthrough; it allows the user to delegate 'Body' (raw data) to the AI while retaining the 'Soul' (intent), reducing cognitive load.",
+        "related_session_ids": [
+          "demo_1770212505337",
+          "demo_1770295872905"
+        ]
+      },
+      {
+        "content": "The user's appreciation for 'Manus's Pragmatism' suggests they are ready to forgive themselves for not being 'Original Inventors' if they can be 'High-Velocity Orchestrators.'",
+        "related_session_ids": [
+          "demo_1770212505337",
+          "demo_1770295872905"
+        ]
+      },
+      {
+        "content": "The 'Hyper-selection Mode' that blocks movies is the same 'Filter' that protects the user's energy during the day; the 'bug' is actually a highly functional survival mechanism.",
+        "related_session_ids": [
+          "demo_1770041995033",
+          "demo_1770044135380"
+        ]
+      },
+      {
+        "content": "The user's definition of happiness has shifted from 'Addition' (achievements/10x goals) to 'Subtraction' (absence of pain/clutter), yet they still struggle to apply this to their weekends.",
+        "related_session_ids": [
+          "demo_1770122116144",
+          "demo_1770123048767"
+        ]
+      },
+      {
+        "content": "By automating the 'Reflection Side Project,' the user risks falling into the 'Collector's Fallacy,' potentially trading the 'Manual Gold Mine' of deep re-reading for the shallow efficiency of a database.",
+        "related_session_ids": [
+          "demo_1770295474063"
+        ]
+      }
+    ]
+  }
+}
