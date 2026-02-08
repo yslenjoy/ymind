@@ -4510,15 +4510,18 @@
                 <div class="video-container">
                     <!-- YouTube Demo Video (linked thumbnail) -->
                     <a href="https://www.youtube.com/watch?v=fyYq6WcRups" target="_blank"
-                        style="display: block; position: relative; aspect-ratio: 16/9; border-radius: 16px; overflow: hidden; border: 1px solid rgba(255,255,255,0.08);">
-                        <img src="https://img.youtube.com/vi/fyYq6WcRups/hqdefault.jpg"
+                        style="display: block; position: relative; aspect-ratio: 16/9; border-radius: 16px; overflow: hidden; border: 1px solid rgba(255,255,255,0.08); cursor: pointer; box-shadow: 0 20px 40px -10px rgba(0,0,0,0.5);">
+                        <img src="https://img.youtube.com/vi/fyYq6WcRups/maxresdefault.jpg"
                             alt="YMind Demo Video"
-                            style="width: 100%; height: 100%; object-fit: cover;">
-                        <div style="position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; background: rgba(0,0,0,0.3);">
-                            <svg width="68" height="48" viewBox="0 0 68 48">
-                                <path d="M66.52 7.74c-.78-2.93-2.49-5.41-5.42-6.19C55.79.13 34 0 34 0S12.21.13 6.9 1.55c-2.93.78-4.63 3.26-5.42 6.19C.06 13.05 0 24 0 24s.06 10.95 1.48 16.26c.78 2.93 2.49 5.41 5.42 6.19C12.21 47.87 34 48 34 48s21.79-.13 27.1-1.55c2.93-.78 4.64-3.26 5.42-6.19C67.94 34.95 68 24 68 24s-.06-10.95-1.48-16.26z" fill="red"/>
-                                <path d="M45 24L27 14v20" fill="white"/>
-                            </svg>
+                            style="width: 100%; height: 100%; object-fit: cover; opacity: 0.9;">
+                        <div style="position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; background: rgba(0,0,0,0.2);">
+                            <div style="width: 80px; height: 80px; border-radius: 50%; background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.2); display: flex; align-items: center; justify-content: center; transition: transform 0.2s, background 0.2s;"
+                                onmouseover="this.style.transform='scale(1.1)'; this.style.background='rgba(255,255,255,0.2)'"
+                                onmouseout="this.style.transform='scale(1)'; this.style.background='rgba(255,255,255,0.1)'">
+                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" style="width: 24px; min-width: 24px;">
+                                    <path d="M5 3L19 12L5 21V3Z" fill="white" stroke="white" stroke-width="2" stroke-linejoin="round"/>
+                                </svg>
+                            </div>
                         </div>
                     </a>
                 </div>
