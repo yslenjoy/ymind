@@ -26,7 +26,7 @@ YMind is a real-time mind mapping tool that uses LangGraph and Google Gemini to 
 ### Prerequisites
 
 - Python 3.10+
-- Google Gemini API Key - [Get one free](https://ai.google.dev/)
+- Google Gemini API Key - [Get one free](https://ai.google.dev/gemini-api/docs/api-key)
 
 ### Installation
 
